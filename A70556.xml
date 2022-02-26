@@ -1,0 +1,1118 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A briefe or generall reply, unto Mr. Knuttons answers unto the VII. questions, about the controversie betwen the Church of England, and the separatist and anabaptist briefly discussed. By John Mabbatt.</title>
+            <author>Mabbatt, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 114 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70556</idno>
+            <idno type="STC">Wing M112</idno>
+            <idno type="STC">ESTC R223722</idno>
+            <idno type="EEBO-CITATION">99834007</idno>
+            <idno type="PROQUEST">99834007</idno>
+            <idno type="VID">38486</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A70556)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38486)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1836:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A briefe or generall reply, unto Mr. Knuttons answers unto the VII. questions, about the controversie betwen the Church of England, and the separatist and anabaptist briefly discussed. By John Mabbatt.</title>
+                  <author>Mabbatt, John.</author>
+               </titleStmt>
+               <extent>39, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.] ,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>Printed in the yeere. 1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply to: Knutton, Immanuel.  Seven questions about the controversie betweene the Church of England, and the Separatists and Anabaptists.</note>
+                  <note>Imperfect. NNUT copy pp.35-39 badly damaged affecting text.</note>
+                  <note>Reproduction of the original at the Union Theological Seminary Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  England --  Early works to 1800.</term>
+               <term>Separatists --  England --  Early works to 1800.</term>
+               <term>Anabaptists --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:38486:1" rendition="simple:additions"/>
+            <p>A Briefe or Generall REPLY, UNTO Mr. KNUTTONS <hi>Anſwers unto the</hi> VII. QUESTIONS, About the Controverſie betwen the Church of <hi>ENGLAND, AND</hi> The SEPARATIST and ANABAPTIST<g ref="char:punc">▪</g> Briefly diſcuſſed.</p>
+            <p>
+               <hi>By JOHN MABBATT.</hi>
+            </p>
+            <p>
+               <hi>Prov.</hi> 22.19, 20, 21. <hi>verſes.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Verſ.</hi> 19.</bibl> That thy Confidence may be in the <hi>LORD,</hi> I have ſhewed thee this day, thou therefore take heed.</q>
+            <q>
+               <bibl>
+                  <hi>Verſ.</hi> 20.</bibl> Have not I written unto thee three things in Counſells and Know<g ref="char:EOLhyphen"/>ledge.</q>
+            <q>
+               <bibl>
+                  <hi>Verſ.</hi> 21.</bibl> That I might ſhew thee the aſſurance of the words of Truth to an<g ref="char:EOLhyphen"/>ſwer the words of truth to them that ſend to thee.</q>
+            <q>
+               <bibl>2 <hi>Tim.</hi> 2.9.</bibl> Even unto bonds, but the Word of God is not bound.</q>
+            <q>
+               <bibl>
+                  <hi>Prov.</hi> 30.5.</bibl> Every word of God is pure, he is a ſhield to thoſe that truſt in him.</q>
+            <p>
+               <hi>Printed in the Yeere.</hi> 1645.</p>
+         </div>
+         <div type="preface">
+            <pb n="2" facs="tcp:38486:2"/>
+            <head>
+               <hi>
+                  <g ref="char:V">Ʋ</g>pon the Honourable Court of Parliament, Englands worthy Patriots be the ſpi<g ref="char:EOLhyphen"/>rit of magnanimity, profunditie of wiſedome and ſound judgement, the plea<g ref="char:EOLhyphen"/>ſure of Induſtriouſneſſe, the happy reaping of a righteous ſoweing, mercy abun<g ref="char:EOLhyphen"/>dantly, and ſeaſonably beſhowring the fruits of the ground with a bleſſed increaſe, for under the defence of the All-protection, I doubt not of the free paſ<g ref="char:EOLhyphen"/>ſage of all and every Truth; A rich Treaſure for Parliament and Kingdome: the ground or cauſe of this following diſcourſe, as the ſeed of it was the Tenents of the Separation, Mr.</hi> Knutton <hi>charged to be unchriſtian in his oppoſite writing, yet I ſuppoſe the blade that riſeth from the ſeed, which ſometimes an oppoſite controverſie in ſome ſenſe may be ſaid to bee; yet I hope will not be offended at the graine in thee are, ripened for the uſe of the Owner thereof, yet will be burne up the Chaffe with unquenchable fire.</hi>
+            </head>
+            <head>¶ The Power of ſafety overſhadow the PARLIAMENT, and glory dwell in our Land.</head>
+            <p>
+               <seg rend="decorInit">U</seg>Nto the Pyons inquiring underſtanding Reader, increaſe of knowledge is a portion of God, in promiſe yours: then ſhall we know the Lord, when we follow on to know him, <hi>Hoſea</hi> 6.3. And as the weight of all heavenly knowledge, is God therein underſtood, ſo is there a worth in the knowledge of heavenly things in the knowing of them according unto God, which knowledge no man hath by nature, but only of God, and in him enjoyed, who manifeſting himſelfe un<g ref="char:EOLhyphen"/>to us, gives forth the knowledge of things, which wee underſtood not be<g ref="char:EOLhyphen"/>fore, opening the mouth to confeſſe him, and the things of him, though others deny him, and will not receive him, nor the things of him; But like the <hi>Jewes,</hi> that would not beleeve that Chriſt gave ſight unto the man that was borne blind, <hi>Joh.</hi> 9.18. ſo is it with many, too like the <hi>Phariſees,</hi> who would not acknowledge God in it; yet would hee that was blind, but then ſeeing confeſſe <hi>Jeſus,</hi> although the <hi>Jewes</hi> had ordained, that if any man did confeſſe that he was the Chriſt, hee ſhould be excommunicated out of the Synagogue, who being caſt out by them, yet imbraced by Chriſt; So is Chriſt unto all his, holding faſt his truths, though for it they are excluded by men, in reading theſe few lines in this reply, you muſt not expect Schol<g ref="char:EOLhyphen"/>ler Phraſes, nor the eloquence of the wiſedome of men, the Greeks ſeek af<g ref="char:EOLhyphen"/>ter
+<pb n="3" facs="tcp:38486:2"/>no ſuch things as runnes in the ſtreame amongſt men generally in allow<g ref="char:EOLhyphen"/>ance, for we are not ignorant how that this way is ſpoken againſt every where, yet God cauſeth Truth to gaine ſuch that in receiving it are advan<g ref="char:EOLhyphen"/>taged by it, though there may be, as <hi>Solomon</hi> ſaith, <hi>a price in the hand of a fool,</hi> yet he hath not the heart to take it, but in you Beloved, let the Word of God dwell plenteouſly or richly, try the ſpirits, ſearch the Scriptures, exa<g ref="char:EOLhyphen"/>mine the texts of Scriptures alledged in proof in this matter in reply. And as you read, you ſhall firſt have the originall Queſtion, then Mr. <hi>Knuttons Anſwer, Reaſon</hi> or <hi>Objection,</hi> marked with the Letter <hi>F,</hi> and <hi>Ob.</hi> wherein there paſſeth not a word but what was his owne.</p>
+            <p>Secondly, in Note for that is mine in Replie, is noted with the Letter <hi>R,</hi> and <hi>A.</hi> which matter in Replie, wherein it holds out my Judgement and practiſe with thoſe Churches in the faith and order of the Goſpel, am wil<g ref="char:EOLhyphen"/>ling to be tryed by the Scriptures, as knowing that the day ſhall declare all things approved, and what ſhall be diſapproved, that matter that is decla<g ref="char:EOLhyphen"/>red unto us ſhall be approved, is the matter that the Scripture evinceth and approveth unto us, and whoſoever ſhall walke according to this Rule, Peace ſhall be upon them, and Mercy upon the Iſrael of God, deſiring not to be found in our owne righteouſneſſe, after the Law, but in the righteouſneſſe of God by faith in Jeſus Chriſt, under which covering, the Lord everlaſtingly find you.</p>
+            <p>Beloved, after your effectuall call of God unto the Faith and Order of the Goſpel in <hi>Nottingham,</hi> Grace, Mercy and Peace be multiplied unto you from God our Father, and our Lord Jeſus Chriſt, although ſince it hath pleaſed God to make knowne his truth unto you, you are not with us unacquainted with what Controverſie, Contention, Tumults, Oppoſitions, that both you and the Churches in <hi>London</hi> and other parts of the Country have and doe meet withall, for walking up to the Light of truth, made knowne to us from God, who hath fulfilled his promiſe unto us, ſaying, That hee would teach us, and lead us in the way that we have not knowne, <hi>Iſai.</hi> the 42.15, 16. Verſ. in whom alſo we truſt he will fulfill that his promiſe in <hi>Iſai.</hi> 49.11. where he ſaith, <hi>I will make all my mountaines as a way, and my paths ſhall be exalted.</hi>
+            </p>
+            <p>Behold it much rejoyced mee; and I was glad to heare that the know<g ref="char:EOLhyphen"/>ledge of the true and pure Wayes of God, was in manifeſtation unto you in <hi>Nottingham,</hi> which was unknowne and unheard of by me that it was ſo a<g ref="char:EOLhyphen"/>mongſt you, untill that which was in oppoſition againſt you came out in publike view and Print here in <hi>London</hi> againſt you; which one having one of the Books, knowing it contrary to my judgement and practiſe, gave it me,
+<pb n="4" facs="tcp:38486:3"/>ſaying; here is that takes you to doe; which I took and read, underſtanding in it, that the Author affirmes that he cannot maintaine, in which affirmati<g ref="char:EOLhyphen"/>on of his, the truth being oppoſed, was one reaſon put me upon this Reply to his book; the ſecond Reaſon was, in referrence to thoſe perſons in <hi>Not<g ref="char:EOLhyphen"/>tingham,</hi> oppoſed, though unacquainted with any of them, yet bearing af<g ref="char:EOLhyphen"/>fection to them, as thoſe in that Countie of Aliance, from which I had my diſcent; Among whom I hearing the truth imbraced, was moved in refer<g ref="char:EOLhyphen"/>rence unto them, having to them both an inward and outward relation, yet through conſciouſneſſe of mine own inabilitie, found ſome demurre, but being by a friend ſtirred to it, and informing me of the deſire in the contra<g ref="char:EOLhyphen"/>ry, that there might be ſome anſwer unto Mr. <hi>Knuttons</hi> Booke; I from a willing principle, according unto the former reaſons ſo to doe, willingly ac<g ref="char:EOLhyphen"/>cording to what abillity and time God gave me, I have made this <hi>Reply,</hi> that his ſuppoſed Anſwers to theſe 7. <hi>Queſtions,</hi> in his Book may appear, as they are void, and the Reſolution of the Queſtion as far off as when Mr. <hi>Knutton</hi> began to reſolve them, for any thing in his Anſwers; ſo that the truth in the Queſtion in the port of them, ſtands firme and undeniable, and the ſtrength of his oppoſition againſt you languiſheth in its owne weakeneſſe; will but occaſion more courage, and double reſolution unto you in the Truth, and that way of God, which by ſome may bee called the way of hereſy, yet ſo, ſaith the Apoſtle, worſhip I the God of my Fathers, beleeving all things in the Law and the Prophets, <hi>Act.</hi> 24.14, 15. which that you may ſo doe in the true Knowledge and Holineſſe, according unto God, I ſhall pray.</p>
+            <closer>
+               <signed>Yours in CHRIST JES<g ref="char:V">Ʋ</g>S, John Mabbatt.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="5" facs="tcp:38486:3"/>
+            <div n="1" type="question">
+               <head>Q<g ref="char:V">Ʋ</g>ESTION THE FIRST. Whether is the Church of <hi>England,</hi> as it now ſtands, a true Church?</head>
+               <p>F. <seg rend="decorInit">I</seg> 
+                  <hi>Premize this, that in this Church is much defect in Diſcipline, and in the execution of it, in compariſon of other Reformed Churches, who in this far exceed it; the ſecond Part of the An<g ref="char:EOLhyphen"/>ſwer is, I affirme, it is a true Church, yea the Spowſe of Chriſt.</hi>
+               </p>
+               <p>
+                  <hi>R.</hi> In the firſt part of the Anſwer, nothing is ſaid for the Church of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> except it be in way of deniall, to which there need be little replie to it; The ſecond part of the Anſwer is a poſitive affirmation; it is a true Church, yea the Spowſe of Chriſt; but upon what ground, proof or reaſon, he is too ſhort to demonſtrate; They of the Church of <hi>Rome</hi> will give as poſitive an affirmation, that their Church is a true Church, yea the Spowſe of Chriſt; Though ſhe be a Harlot, therefore a bare affirmation to be ſuch, muſt not be taken, 2 <hi>Pet.</hi> 2.18. here is neither ground nor proof to make good this affirmation, therefore if any thing be pretended, it is in the following reaſon.</p>
+               <p>F. <hi>Becauſe the Church of</hi> England <hi>hath the matter and form of a true Church; the matter of a Church are men and women in a right logicall ſenſe, matter which is one of the cauſes, hath this property, it is Paſſive, for Action is from the Forme, which is called the beginning of doing, as matter is of ſuffering, ſo are men by na<g ref="char:EOLhyphen"/>ture in the internall and reall worke of Grace, in converſion paſſive; Such matter the Church of</hi> England <hi>hath: it hath alſo the forme of a Church; the forme of a thing in ſtrict logicall ſenſe, is a chief cauſe which actuates the matter, and per<g ref="char:EOLhyphen"/>fects it, it is a conſtituting cauſe; now the forme or conſtituting cauſe of a Church is faith, which brings it into relation to Chriſt; this forme our Church hath, it hath many true Beleevers.</hi>
+               </p>
+               <p>
+                  <hi>R.</hi> This argument cannot juſtifie the Church of <hi>England</hi> to be a true Church. 1. Becauſe what this Argument affirmes to maintaine it ſo, is no more then may be affirmed of the Church of <hi>Rome.</hi> 2. Becauſe it denies all viſible Apoſtolicall Churches, as they were planted by the Apoſtles in the Primative times, which may appeare as follows.</p>
+               <p>Firſt, it grants what it affirmes may be in the Church of <hi>Rome;</hi> thus; the matter and forme he expreſſeth to be the matter and forme of a Church: be there the matter, ſaith hee, in a right Logicall ſenſe, is men and women, but men and women are the matter of the Church of <hi>Rome, ergo</hi> the matter is in <hi>Rome,</hi> which is one of the Cauſes that hath this property; it is paſſive,
+<pb n="6" facs="tcp:38486:4"/>ſo are men by rature in the internall and reall worke of grace in converſi<g ref="char:EOLhyphen"/>on, ſo is it with all men and women in <hi>Rome,</hi> and in all the World, it hath alſo the forme of a Church, which forme hee thus explaines, the forme of a thing in ſtrict Logicall ſenſe, is a chief cauſe which actuates the matter, and perfects it, as he ſaith, action is from the forme which is called the begin<g ref="char:EOLhyphen"/>ning of doing, but the Church of <hi>Rome</hi> hath a forme, as a chief cauſe, which actuates the matter, and perfects it, and is a conſtituting cauſe to it, which is here proved, 2 <hi>Theſ.</hi> 2.9.10. <hi>Revel.</hi> 13.4, 5.12.13.14.15.16.17.</p>
+               <p>F. <hi>Now the forme or conſtituting Cauſe of a Church is faith, which brings it into Relation to Chriſt.</hi>
+               </p>
+               <p>
+                  <hi>R.</hi> Which I denie, Faith alone is not a forme or Conſtituting cauſe of a Church, for what ever is eſſentiall to the being of the Church of Chriſt, is eſſentiall to be in the Church, conſidered in its con<g ref="char:EOLhyphen"/>ſtitution, <hi>Epheſ.</hi> 2.19, 20, 21, 22. 1 <hi>Pet.</hi> 2.3, 4, 5. and for what he affirmes of Faith, that it ſhould be a forme or conſtituting cauſe of a Church, in be<g ref="char:EOLhyphen"/>ing in relation to Chriſt, is falſe, there may be ſuch in the Church of <hi>Rome,</hi> have Faith, and ſtand in relation to Chriſt, <hi>Revel.</hi> 18.4. <hi>ergo,</hi> there is faith in ſome of the Church of <hi>Rome,</hi> that brings it into relation to Chriſt, and is a conſtituting cauſe of her to be his Church and Spowſe, whom hee hath diſclaimed, and to be a harlot, and the mother of whoredomes. <hi>Rev.</hi> 17.5.</p>
+               <p>Therefore for him to ſay, becauſe here is ſome have Faith, and many true Beleevers in the Church of <hi>England,</hi> and this their faith brings it into relation to Chriſt, this forme our Church hath, it is no more then may be ſaid of <hi>Rome,</hi> and this doth not make neither one nor the other a true Church.</p>
+               <p n="2">2. This Argument denies all viſible Apoſtolicall Churches, as they were planted by the Apoſtles in the Primitive times: Firſt the matter of the Church in the Apoſtles times, were Saints by calling, 1 <hi>Cor.</hi> 1.2. Secondly, not ſimply, as men and women, but ſuch men and women as profeſſed Faith and Repentance at the leaſt. <hi>Act.</hi> 2.41.</p>
+               <p n="3">3. Now men and women are in the worke of Converſion meerly paſſive, but as they are matter, for the Church of Chriſt they are more then meer<g ref="char:EOLhyphen"/>ly paſſive, not dead ſtones, but living ſtones, becauſe that you have taſted that the Lord is gracious, to whom comming <hi>as a living Stone, yee alſo, as living ſtones be made a ſpirituall houſe,</hi> 1 <hi>Pet.</hi> 2.3.4.5.</p>
+               <p>The forme or Conſtituting cauſe of a Church, is faith, which brings it in<g ref="char:EOLhyphen"/>to relation to Chriſt, if he would ſay any thing in this Argument, it is in theſe words, Yet how contrary it is to ſtand with the Primitive Church, may plainly appeare.</p>
+               <p n="1">1. It denies the viſibility of Chriſts Church, becauſe the Argument can<g ref="char:EOLhyphen"/>not
+<pb n="7" facs="tcp:38486:4"/>hold, but with reference only unto the Church of Chriſt miſticall: for Beleevers in all ages, places, and people, by reaſon of their union and Faith in Chriſt, are called his body, <hi>Epheſ.</hi> 1.23. and thus they are of his body, yet viſibly not his Church.</p>
+               <p n="2">2. Faith cannot be onely a forme or conſtituting cauſe of the viſible Church; becauſe firſt, Faith may as well be a forme or conſtituting cauſe, as well to perticular perſons to be a Church of Chriſt, for he hath the ſame Faith, brings him into this relation unto Chriſt, as doth the faith of more, and makes him a member of his body miſtically, yet not his Church viſibly; For the Scripture never gives the name of Church to one perſon; no leſſe then two or three, <hi>Matt.</hi> 18.20.</p>
+               <p n="3">3. Beleevers living in ſeverall diſtinct parts of this Kingdom, neither ac<g ref="char:EOLhyphen"/>quainted one with another, nor have any thing to doe each with another in the matters pertaining to a Church, yet by vertue of their Faith in Chriſt, may have that forme or conſtituting Cauſe of a Church, hee alledgeth, that brings it into relation unto Chriſt; yet none will ſay, they are <hi>Chriſts</hi> viſible Church, as the Apoſtle meaned, when hee writ, ſaying unto the Church of God at <hi>Corinth,</hi> and unto the Church of <hi>Galatia,</hi> and if any will ſay any thing of them, it muſt be in the words of the Apoſtle <hi>Peter,</hi> in his firſt <hi>Epiſtle,</hi> firſt <hi>Chapter,</hi> firſt <hi>Verſ.</hi> unto the ſtrangers that dwell here and there through<g ref="char:EOLhyphen"/>out <hi>Pontus, Galatia, Capadocia, Aſſia</hi> and <hi>Bithynia.</hi>
+               </p>
+               <p>
+                  <hi>F. Becauſe the Church of</hi> England <hi>hath the eſſentiall notes and markes of a true Church;</hi> 1. <hi>The Word of God purely and powerfully Preach't, profeſt and maintained, which alwayes gather a People to the Lord, being ſo taught.</hi>
+               </p>
+               <p n="2">2. <hi>The lawfull Adminiſtration of the two Sacraments, according to Chriſts Inſtitution,</hi> Matt. 28.19, 20.</p>
+               <p n="3">3. <hi>True obedience to the Word of God, a right following Chriſt, voice and conforming to his will.</hi>
+               </p>
+               <p n="4">4. <hi>The <g ref="char:V">Ʋ</g>nion with God by his Spirit and Faith, and with his Saints by love.</hi>
+               </p>
+               <p>
+                  <hi>R.</hi> As he could not make it good in the matter and forme of a true Church, neither will theſe Notes and Markes be found in her to be a true Church, but will prove like unto the <hi>Nethinims,</hi> who came of the <hi>Gibe<g ref="char:EOLhyphen"/>onites,</hi> who pretended that they were of the <hi>Levites,</hi> and ſought their wri<g ref="char:EOLhyphen"/>ting of the <hi>Genealogies,</hi> but it was not found; therefore they were put from the Prieſthood, <hi>Joſh.</hi> 9.3.4.9.27. <hi>Ezra.</hi> 2.43.62. <hi>Nehem.</hi> 7.60.64, 65.</p>
+               <p>
+                  <hi>Laodicean</hi> ſaith, <hi>I am rich, and increaſed with goods, and have need of no<g ref="char:EOLhyphen"/>thing;</hi> But the anſwer of God is, <hi>and knoweſt not how thou art wretched and miſerable, and poor, and blind, and naked.</hi> Revel. 3.17.</p>
+               <p>To the firſt note, for pure preaching of the Word of God, it is purely, when it is without mixture with humane rites, or humane Tradition, or
+<pb n="8" facs="tcp:38486:5"/>Authority of humane Authours. But the Church of <hi>England,</hi> in ſtead of be<g ref="char:EOLhyphen"/>ing like unto the Houſe of God, the Church of the living God, the pillar and ground of truth, 1 <hi>Tim.</hi> 3.15. to hold up, and forth, pure truth: Doth ſhe not hold out Truth mixt with humane rites, and Traditions in the Au<g ref="char:EOLhyphen"/>thority of humane Authors, witneſſe the doctrine of Infants, Baptiſme, which to doe, Chriſt ſaith, you worſhip me in vaine, <hi>teaching for Doctrine mens Preceps.</hi>
+               </p>
+               <p n="2">2. The <hi>Word</hi> is purely Preach'd, when it is in the ſimple purity of the <hi>Word</hi> it ſelf, and not to be wiſe above what is written, holding out nothing in matter of Faith and Worſhip, then the pure Word of God holds out ſo to be, which only is ſufficient to make the man of God abſolute and per<g ref="char:EOLhyphen"/>fect to all good Workes. 2 <hi>Tim.</hi> 3.15, 16, 17. But this is not a pure Preach<g ref="char:EOLhyphen"/>ing, to affirme that the Scripture is not Sufficient to make the man of God perfect to every good worke! Witneſſe, no man is able to preach the Go<g ref="char:EOLhyphen"/>ſpel, except he have humane Learning, and the knowledge of Tongues.</p>
+               <p n="3">3. Thirdly then is the <hi>Word</hi> purely Preached, when the whole Counſell of God is preached. <hi>Act.</hi> 20.20.27. Now where any part of Gods Coun<g ref="char:EOLhyphen"/>ſell is withſtood, there is no pure preaching of his <hi>Word,</hi> but as it was ſaid conſerning the <hi>Phariſees,</hi> and the expounders of the Law, in the hearing of Chriſt preach'd, in refuſing to have heard to one part of Gods Truth in poynt of <hi>Johns</hi> Baptiſme, they were ſo farre from purely hearing the Word, that they are ſaid to deſpiſe the Counſell of God. <hi>Luk.</hi> 7.30. ſo may it be ſaid in the other reſpect, to preach a part, and not the whole Counſell of God made known, is but to deſpiſe the Counſell of God, Chriſts Preroga<g ref="char:EOLhyphen"/>tive Royall, peculiar and alone King and Lawgiver to his Church, is to be preach'd up and maintained. <hi>Pſal.</hi> 2.6. <hi>Iſaiah.</hi> 9.6. <hi>Revel.</hi> 19.16. and not to pretend to hold up Chriſts Prerogative, in word only, to ſpoile him of his Prerogative Royall, which is ſo done, when Chriſt hath ſaid in his Word, <hi>thus and thus ſhall ye preach my Word, my will and my Commands.</hi> But to con<g ref="char:EOLhyphen"/>tradict, and ſay, not ſo as the Word requires, but thus and thus, according to ſuch and a humane Tradition of the Fathers; this is to ſpoile Chriſt of his Prerogative as a King, and to make void his Commands to his Church, which he hath enjoyned them to obſerve unto the end of the World. <hi>Mat.</hi> 28.20. And where any ſuch things as theſe be, are contrary to pure Do<g ref="char:EOLhyphen"/>ctrine, there is not the <hi>Word</hi> purely preached.</p>
+               <p>Further, not only purely, but powerfully preach'd, when according to the power of God, ſubjecting people to the pure word of God, that obedi<g ref="char:EOLhyphen"/>ence that is from the heart, unto the forme of the doctrine of Chriſt's <hi>Word</hi> to the truth, as the truth is in Jeſus, not only to one Truth but every Truth of Chriſt, <hi>teaching them to obſerve all that I command you, Mat.</hi> 28.20. And
+<pb n="9" facs="tcp:38486:5"/>the Word in ſuch purity and power as the Apoſtles preach'd it, calling and bringing home people unto God, this they did in ſeverall places, and all this while, not a note or marke of a true Church gathered, for after this they planted Churches, and of theſe Converts, were joyned unto Churches, and this may be out of a Church, <hi>calling</hi> and <hi>converſion,</hi> as the hand of the Lord was with divers, after the ſcattering of the Church, for the perſecuti<g ref="char:EOLhyphen"/>on about <hi>Stephen, Act.</hi> 11.19, 20, 21.</p>
+               <p n="2">2. <hi>F.</hi> Note: <hi>But in the Church of</hi> England, <hi>is the lawfull adminiſtration of the two Sacraments, according to Chriſts Inſtitution.</hi> Mat. 28.19, 20.</p>
+               <p>
+                  <hi>R.</hi> By this note or marke of a true Church, hee cannot make it good; Firſt, the two Sacraments muſt be lawfully Adminiſtred, and then lawfully, when done according to Chriſts Inſtitution, <hi>Matt.</hi> 28.19, 20. <hi>Goe teach all Nations, baptizing them in the Name of the Father, and the Sonne, and the holy Ghoſt:</hi> In the <hi>Inſtitution</hi> is plainly laid downe, Firſt Teach, and then Bap<g ref="char:EOLhyphen"/>tize; hee muſt ſo teach, as the party be inſtructed by teaching, (teaching im<g ref="char:EOLhyphen"/>plies a Schollar learning) <hi>Goe Teach all Nations,</hi> that is Diſciples, <hi>all Nations, Baptizing them.</hi> Now how lawfully hath this Sacrament been by Mr. <hi>Knut<g ref="char:EOLhyphen"/>ion,</hi> or thoſe his aſperſion pleads for, adminiſtred lawfully, hath he taught<g ref="char:punc">▪</g> or were they taught Diſciples they adminiſtred Baptiſme upon; if not, then not lawfully adminiſtred as the Inſtitution is given by Chriſt, to be obſerved.</p>
+               <p>Children cannot be the lawfull ſubjects of this Sacrament, for they are not capable of teaching, Chriſt Inſtitutes and commands one thing, you ſay and doe another thing, he ſaith, <hi>Teach and Baptize;</hi> you ſay, no Baptiſe with<g ref="char:EOLhyphen"/>out Teaching, yea, the untaught, and ſuch uncapable of teaching: Is this a lawfull adminiſtration of this Sacrament? and one will not ſerve without the other, if that were lawfully adminiſtred, for he enjoynes, teaching to ob<g ref="char:EOLhyphen"/>ſerve all that he commands, <hi>verſ.</hi> the 20.</p>
+               <p>
+                  <hi>F.</hi> 3. <hi>Note the true obedience to the Word of God, a right following Chriſts voice, and conforming to his Will.</hi> John. 10.27.</p>
+               <p>
+                  <hi>R.</hi> This note will not ſerve to maintaine the thing affirmed: For when Chriſts inſtitution is not rightly hearkened unto, and followed, there can<g ref="char:EOLhyphen"/>not be boaſting of obedience, and hearkning unto, and following Chriſt rightly, <hi>Mat.</hi> 7.24.26.</p>
+               <p>F. 4. Note. <hi>
+                     <g ref="char:V">Ʋ</g>nion with God by his Spirit and faith, and with his Saints by love.</hi>
+               </p>
+               <p>
+                  <hi>R.</hi> This is not ſo eſſentiall a marke of a true Church, but that the ſcattered Saints, Beleevers far remote one to another have, &amp; Saints in their own par<g ref="char:EOLhyphen"/>ticular, it may be affirmed of them, to have <hi>union</hi> with God by his Spirit and faith, and with his ſaints by love, and this the beleeving Saints had in the Apoſtles times, when they were called afore viſibly they were joyned unto any Church, and ſome that never ſaw the Apoſtles face, hearing of his con<g ref="char:EOLhyphen"/>verſion &amp; preaching, glorified God for him <hi>Gal.</hi> 1.22, 23.</p>
+               <p>
+                  <pb n="10" facs="tcp:38486:6"/>F. <hi>Becauſe this Church of England was rightly called and conſtituted at the firſt by the preaching of the Word, and gracious Lawes of the Magiſtrate.</hi>
+               </p>
+               <p>
+                  <hi>R.</hi> Here it is affirmed, it was called and conſtituted either by the preaching of the Word alone, or elſe by the preaching of the Word, &amp; the Laws of the Magiſtrate together, he would not be underſtood to affirme, it was conſti<g ref="char:EOLhyphen"/>tuted by the preaching of the Word alone, yet it ſeems, that if hee ſhould ſpeak according to the light of truth, he could not tell how to make it out otherwayes; as mind what he ſaith himſelf, — <hi>Conſtraint it ſelf may juſtly have place in a lawfull Conſtitution, or Reformation of a Church,</hi> — there muſt be firſt a lawfull conſtitution afore a law of conſtraint by the Magiſtrate, and this he cannot deny, without he will denie his owne words, as hee ſaith in the firſt Argument, <hi>pag.</hi> 1. the forme or Conſtituting cauſe of a Church is Faith; If this bee a Conſtituting Cauſe in his Judgement, he ſaith of faith and beleeving, the Magiſtrate muſt not compell a man to be<g ref="char:EOLhyphen"/>leeve, ſaith he; then from his own Argument, a Church may be of a lawfull conſtitution without the Power of the Magiſtrate, which is a truth, accor<g ref="char:EOLhyphen"/>ding to the primitive Churches, who were ſo.</p>
+               <p>But they muſt compell them to attend the meanes of grace, and leave their wickedneſſe; if ſo, then it is but juſt and right reaſon, where any Church or Churches are in a lawfull conſtitution according to the word of God, in relation unto Chriſt by faith through the Spirit, according toge<g ref="char:EOLhyphen"/>ther in the order and fellowſhip of the Goſpel, ſubjected unto Chriſt their only King, Prieſt, and Prophet, is Gods Church appointed, that to them they ſhould grant protection, for there hath God appointed the bleſſing for evermore, and this the Apoſtle put us upon to pray for; 1 <hi>Tim.</hi> 2.1, 2, 3. for kings and all that are in Authority, that we may lead a quiet and a peaceable life, in all Godlineſſe and honeſty.</p>
+               <p>But never did the Apoſtle call upon the Magiſtrate by the ſword, to cauſe any man to be of the Church of Chriſt, this was effected by the power of God in the Word preached, <hi>Act.</hi> 2.41.</p>
+               <p>His fourth and fift Argument he ſaith more properly comes in elſwhere, which here is paſſed by.</p>
+               <p>But concerning Chriſts viſible Church, note theſe particulars. 1. The foun<g ref="char:EOLhyphen"/>dation of the Church is Chriſt. 1 <hi>Cor.</hi> 3.11.</p>
+               <p n="2">2. The layer of this foundation is God. <hi>Iſaiah</hi> 18.16.</p>
+               <p n="3">3. The place where God layes this foundation, is in <hi>Sion,</hi> his Church. <hi>Rom.</hi> 9.33. 1 <hi>Pet.</hi> 2.6.</p>
+               <p n="4">4. The builder on this foundation, is God by his Spirit, <hi>Eph.</hi> 2.22. 1 <hi>Cor.</hi> 3.9.</p>
+               <p n="5">5. The matter laid upon this foundation, is living Stones. 1 <hi>Pet.</hi> 2.5.</p>
+               <p n="6">6. The forme of this building, is a Temple, or Spirituall houſe, 1 <hi>Pet.</hi> 2.5. <hi>Epheſ.</hi> 2.21.</p>
+               <p n="7">
+                  <pb n="11" facs="tcp:38486:6"/>7. The end of this building or houſe of God is, that it ſhould be a habi<g ref="char:EOLhyphen"/>tation for God, through the Spirit, <hi>Epheſ.</hi> 2.22.</p>
+               <p>Seven particulars more the Scripture holds out to us, as in one Conjun<g ref="char:EOLhyphen"/>ction unto theſe ſeven principall heads, pertaining unto Chriſts viſible Church.</p>
+               <p n="1">1. In Chriſt being the foundation of the Church, ſo is he the Lord and King, and only head of the Church, <hi>Pſal.</hi> 2.6. <hi>Mat.</hi> 21.42. <hi>Epheſ.</hi> 1.22.</p>
+               <p n="2">2. God laying this foundation, he layes it as the ſtock of all the fulneſſe of the treaſury of Righteouſneſſe and life, 1 <hi>Cor.</hi> 1.30. <hi>Coloſſ.</hi> 1.9. <hi>Coloſſ.</hi> 2.9.</p>
+               <p n="3">3. In regard of the place where God layes this foundation, the Church, he makes it the fulneſſe of him that filleth all in all. <hi>Epheſ.</hi> 1.23. 2 <hi>Pet.</hi> 1.3. <hi>Mat.</hi> 18, 19, 20.</p>
+               <p n="4">4. From Gods being the builder, the building of Chriſts Church ſhall goe on, <hi>and the gates of Hell ſhall not prevaile againſt it.</hi> Mat. 16.18. 1 <hi>Cor.</hi> 3.11. <hi>Heb.</hi> 3.4.</p>
+               <p n="5">5. In regard of the matter laid upon this foundation, living Stones, this that the beleeving ſheep of Chriſt ſhall be gathered into the Sheep-fold of the Lord <hi>Jeſus,</hi> and built up upon him. <hi>John.</hi> 10.16. <hi>Mat.</hi> 24.31. <hi>Epheſ.</hi> 4.11, 12.13.</p>
+               <p n="6">6. In that this building is a Temple and ſpirituall Houſe; this, that the Church is a glorious and admirable building. <hi>Epheſ.</hi> 2.19, 20, 21. 1 <hi>Tim.</hi> 3.15. <hi>Pſal.</hi> 87.7. <hi>Revel.</hi> 21.2.11. <hi>Cant.</hi> 6.10.</p>
+               <p n="7">7. From the end of this building, to be a habitation for God, through the Spirit, is this, from Gods inhabiting: here are theſe two things to be underſtood; Firſt, <hi>Gods purging his floor, Mat.</hi> 3.12. <hi>Revel.</hi> 21.27. Second<g ref="char:EOLhyphen"/>ly, his filling his Houſe with his glory. <hi>Revel.</hi> 22.1, 2, 3, 4, 5. <hi>Revel.</hi> 21.3, 4, 5.</p>
+               <p>
+                  <hi>Now</hi> to theſe former particulars, I ſhall lay down theſe foure concluſions.</p>
+               <p n="1">1. That the foundation, and the Saints mutuall, according together in the Order and Fellowſhip of the Goſpel, to be the Church of God, is in one Conjunction together, <hi>Matt.</hi> 18.20. <hi>Joh.</hi> 15.1.5. <hi>Epheſ.</hi> 4.15, 16. <hi>Colloſs.</hi> 2.19. <hi>Epheſ.</hi> 2.21.</p>
+               <p n="2">2. This is ſo by the Lords doing alone, and it is marveilous in our eyes, <hi>Matt.</hi> 21.42. <hi>Epheſ.</hi> 2.22.</p>
+               <p n="3">3. Thirdly, that in the Church, in <hi>Sion,</hi> God hath only declared, that there is this foundation laid by him, <hi>Iſay.</hi> 28.16. <hi>Rom.</hi> 9.33. 1 <hi>Pet.</hi> 2.6, 7, 8. <hi>Epheſ.</hi> 3.10.</p>
+               <p n="4">4. That the Church of Chriſt is ſuch a choice one to him, as his Spowſe; that it is not the Faith of another, or others can inſtate any into this rela<g ref="char:EOLhyphen"/>tion to Chriſt to be his Church or Spowſe, for ſhe is his Church &amp; Spowſe, by her own being one with Jeſus Chriſt; <hi>I am my beloveds, and my Beloved is mine.</hi> Cant. 6.2.</p>
+            </div>
+            <div n="2" type="question">
+               <pb n="12" facs="tcp:38486:7"/>
+               <head>Q<g ref="char:V">Ʋ</g>ESTION <hi>II.</hi> ¶ Whether the Church of <hi>England</hi> be a right Nationall Church?</head>
+               <p>F I <hi>Aſſieme, it is as true a Nationall Church, as the</hi> Jewiſh <hi>Church was.</hi>
+               </p>
+               <p>
+                  <hi>R.</hi> To return back to him his own words, wherein may appeare what little weight of truth there is in his affirmation,— It is as true a Nationall Church as the <hi>Jewiſh</hi> Church was, yet ſaith he, in the Old Teſtament the <hi>Jews</hi> were never called by the name of <hi>Nationall Church,</hi> which is deniall enough to what he affirmes; and further he ſaith, that no National Church is mentioned in the <hi>New Teſtament,</hi> but only particular Churches gathered by the Apoſtles preaching, and in this he gives himſelf a ſecond deniall to what he affirmed; thus, both in the old and new <hi>Teſtament,</hi> there is no war<g ref="char:EOLhyphen"/>rant for an Nationall Church by his own grant, but ſaith hee, if the judge<g ref="char:EOLhyphen"/>ment of Mr. <hi>Brightman,</hi> and ſome other learned, upon the <hi>Revelation,</hi> be Or<g ref="char:EOLhyphen"/>thodox and ſound, then Nationall Churches are ſpoken of, and prefigured by thoſe ſeven <hi>Aſian</hi> Churches, whom that Eagle-eyed Expoſitor looks up<g ref="char:EOLhyphen"/>on as <hi>Tipes</hi> of ſucceeding Churches, and thoſe Churches whom they ſet out to be their Counterpain, as <hi>Sardis</hi> ſets out the Church of <hi>Germany, Laodicia</hi> the Church of <hi>England,</hi> and <hi>Philadelphia</hi> the Churches of <hi>France, Helvetia, Sueuca, Geneva, Holland, Scotland,</hi> —what ever Mr. <hi>Brightman</hi> or others ſay, it is not Anthentick, and ſo to be taken, without the Scripture ſaith it. Neither is this Mr. <hi>Brightman</hi> hath ſaid, of any great ſtay to the Church of <hi>England,</hi> whoſe Counterpaine he ſets out from <hi>Laodicea,</hi> of whom God ſaid in <hi>Revel.</hi> 3.16. becauſe thou art Luke-warme, and neither hot nor cold, it will come to paſſe, that I will ſpue thee out of my mouth; and it may be minded, what Mr. <hi>Brightman</hi> ſaith, that Chriſt preferreth a blind Papiſt, or no Religion at all, before this hodge-podge Lukewarmeneſſe, of which <hi>Lao<g ref="char:EOLhyphen"/>dicea,</hi> and the Church of <hi>England,</hi> if you will have it ſo, doth conſiſt.</p>
+               <p>And concerning that in the Old Teſtament, are divers Illuſtrious Prophe<g ref="char:EOLhyphen"/>ſies of a Nationall Church of the <hi>Jewes,</hi> when God ſhall convert them, to bring them back, to ſettle them in their own Kingdome. <hi>Iſai.</hi> 60.4. Likewiſe we find, ſaith he, the Prophetsſpeaking of Nationall Churches amongſt the Gentiles, which ſhall come and joyne with the Church of the <hi>Jewes,</hi> but theſe Propheſies have referrence unto that time after the <hi>Jewes</hi> calling and converſion, which is not yet, and ſo ſerve not now, and we have the Scrip<g ref="char:EOLhyphen"/>tures ſpeaking of ſome out of every Country, Kingdome, Nation and Peo<g ref="char:EOLhyphen"/>ple is redeemed out from all the reſt, is a truth as well, as to affirm it of the whole Nations; read two Proofes, <hi>Revel.</hi> 7.9, 10, 11, 12, 13, 14, 15, 16, 17. <hi>Revel.</hi> 21.24.</p>
+               <p>Therefore we ſee, there is nothing hee can ſay, doth prove a Nationall
+<pb n="13" facs="tcp:38486:7"/>Church, therefore not a Nation. But conclude with <hi>Act.</hi> 10.35. in every Nation, <hi>hee that feareth God, and worketh Righteouſneſſe is accepted with him.</hi>
+               </p>
+               <p>A Reaſon or two, why a Church in an Nationall conſideration, can<g ref="char:EOLhyphen"/>not bee.</p>
+               <p n="1">1. The Church was ſo many as could meet together in one place, a whole Nation cannot doe ſo. <hi>Act.</hi> 14.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>7.</p>
+               <p n="2">2. The Church is ſuch a company, over whom the Paſtor, or Paſtors of it may diſcharge that worke of Duty, Care, Service and watchfulneſſe over them, as thoſe flocks over which God makes them Overſeers, now who can fulfill or diſcharge a Paſtorall charge over a whole Nation, <hi>Act.</hi> 20.28. 1 <hi>Pet.</hi> 5.2.</p>
+               <p n="3">3. The Church is ſuch over whom their Paſtor, or Paſtors that are over them, are to give account of; what Paſtor or Paſtors will or can be accoun<g ref="char:EOLhyphen"/>table for a whole Nation, as their flock, according to the Apoſtles minde, as Paſtors ſhould be, <hi>Heb.</hi> 13.17.</p>
+            </div>
+            <div n="3" type="question">
+               <head>QVESTION <hi>III.</hi> ¶ Whether are the Miniſters in the Church of England ſent of God, and ſo are true Miniſters, or not?</head>
+               <p>F. I <hi>Affirme, they be true Miniſters of Jeſus Chriſt, ſent of God into his Vin<g ref="char:EOLhyphen"/>yeard, to build up his Church and people, as living ſtones, upon Chriſt the chief Corner Stone.</hi>
+               </p>
+               <p>
+                  <hi>R.</hi> In this Anſwer in a true Miniſter, we may obſerve theſe particulars; Firſt, he is ſent of God. 2. The place whether he is ſent, is <hi>into his Vinyeard.</hi> 3. The worke there that hee is to doe, is <hi>to build up his Church and People.</hi> 4. The qualitie of the matter they are to build, which <hi>is living Stones.</hi> 5. The foundation they muſt build upon, <hi>is Chriſt, the chief Corner Stone.</hi> But now whether theſe be in the Miniſters of the Church of <hi>England,</hi> examine.</p>
+               <p>Firſt a true Miniſter of Chriſt is ſent of God, that is in one of theſe two wayes. 1. Immediately by God, as the Apoſtles were. 2. Mediately by the <hi>Church,</hi> in <hi>choice,</hi> in <hi>election,</hi> and <hi>ordination,</hi> lawfully proceeded in according to the rule of the Word of <hi>Chriſt</hi> ſo requiring of it.</p>
+               <p n="1">1. For immediate ſending of God, as the Apoſtles were ſent, ſo hee doth not ſay, are the Miniſters he would plead for, are ſent: he goes not about to ſhow ſuch a pattern as <hi>Paul</hi> could; <hi>Paul called to be an Apoſtle of Jeſus Chriſt, through the will of God,</hi> Rom. 1.1.5. 1 <hi>cor.</hi> 1.11. But as he doth ſay, is this, that they have gifts, and exerciſe their abilities to convert and conforme ſoules; Now ſaith he, their <hi>abilitie</hi> and <hi>fidelity</hi> argues, that God hath ſent them, ſo much may be ſaid of the woman of <hi>Samaria,</hi> was able and faithfull to declare Chriſt the <hi>Meſſiah</hi> to the <hi>Samaritans,</hi> that they beleeved becauſe of her words. <hi>Joh.</hi> 4.39.</p>
+               <p n="2">
+                  <pb n="14" facs="tcp:38486:8"/>2. God or Chriſt may be ſaid to ſend in a mediate way, when a Miniſtre in a Church is lawfully elected and ordained into the Church of Chriſt as <hi>Act.</hi> 14.23. and tell them, it is not the greatneſſe of his gifts, or what he hath done, makes him officiouſly a Miniſter of the Church, till he be called and ordained to it; And there can be no true and lawfull election and ordinati<g ref="char:EOLhyphen"/>on of a true Miniſter, but in a true Church, <hi>Act.</hi> 14.23. <hi>Tit.</hi> 1.5. Now for ſuch a call by lawfull election, in ordination in the Church, as <hi>Act.</hi> 14.23. to be ordained in the Church, thus to juſtifie thoſe Miniſters he pleads for, he ſaith nothing, truly to be ſent of God, and thus from neither of theſe, to ſending of God, can he juſtifie them to be Miniſters ſent of God, neither immediately of God, as the Apoſtles, nor mediately in the Church; and hee may ſay what he ſaid, They be true Miniſters of Jeſus Chriſt, ſent of God, but thoſe he ſets to plead for to be Miniſters, are not thoſe Miniſters ſent of God, not immediately, as <hi>Paul,</hi> nor mediately called, elected, ordained in the Church of Chriſt, his Vinyeard, into which he ſaith they are ſent.</p>
+               <p>But Chriſt ſeeing the Labourers ſtanding idle in the Market-place, <hi>Mat.</hi> 20.4.7. ſaith unto them, <hi>goe yee alſo into my Vinyeard, and whatſoever is right, I will give you,</hi> and they went their way, <hi>Verſ.</hi> 7. and his promiſe is, whatſoe<g ref="char:EOLhyphen"/>ver is right, that ſhall you receive.</p>
+               <p>F. <hi>I grant, ſaith he, that the calling of the Lordly Prelates, as they are deſcri<g ref="char:EOLhyphen"/>bed in the ſecond Article of the Covenant, and exerciſe their juriſdiction in their Courts, by their ſubſtitutes, is Antichriſtian, yet the Godly, Learned Miniſters of this Church, called by them, are true Miniſters.</hi>
+               </p>
+               <p>
+                  <hi>R.</hi> Firſt he grants, the calling is Antichriſtian, and ſo unlawfull, yet ſee how he contradicts himſelf; if they be Godly men, called by them, then the call is not Antichriſtian, nor unlawfull, but they true Miniſters of Chriſt; now what little ſhow of reaſon is in this; is the Call Antichriſtian in reſpect of the Prelates calling, or the Perſons called; it is Antichriſtian in the Cal<g ref="char:EOLhyphen"/>ler, and that is the Prelates, then all without exception, let them be whom they will, as they are called by them, it is an Antichriſtian Call to the Mi<g ref="char:EOLhyphen"/>niſtery, and ſo not a true <hi>Miniſter,</hi> but a falſe.</p>
+               <p>Ob. <hi>But the Prelates are Chriſtians, and ſo their Call of us is not altogether unlawfull, which the Seperates, every Plebeian Artificer hath power to Elect, and ordaine by vertue of his Chriſtian Profeſſion, the Act of the worthieſt ſtanding for all:— how can they deny this right to Perſons, in ſome meaſure quallified for this Worke?</hi>
+               </p>
+               <p>
+                  <hi>R.</hi> This is denied, as untrue; they did not chuſe you, conſidered as Chri<g ref="char:EOLhyphen"/>ſtians, if they did ſimply ſo, it was to ſet you Paſtors over them, in that con<g ref="char:EOLhyphen"/>ſideration alone, which if they did, theſe choſen by them ſhould have ſtood cloſe to them, and not forſake them, but let them ſinke under the Antichri<g ref="char:EOLhyphen"/>ſtian doome alone.</p>
+               <p n="3">
+                  <pb n="15" facs="tcp:38486:8"/>3. They did not as Chriſtians call you, as you ſay, with the <hi>Separates;</hi> if they did, why will not you allow with Chriſtians to be the power of Calling, Electing, and ordaining Miniſters, which you ſeem to contemne by your words; every <hi>Plebeian Artifieer</hi> hath power to elect and ordaine by vertue his Chriſtian profeſſion, which you ſhould not contemn, for you can be un<g ref="char:EOLhyphen"/>der no people, but they muſt be ſome Artificers; will you not have their voices to chuſe you, or have you been only a Teacher to <hi>Lordly Prelates,</hi> then have you loſt your flock, and take heed how you contemne the choice of the Lords people, it is no matter how meane or contemptible their calling or trades are, or how common the perſons be: Is not this ſaid, <hi>they diſdaine the Carpenters Sonne?</hi> What ever Chriſt purchaſed for the Saints, and gave to them that priviledge, the Apoſtles in their time would not deny them: but they did give their voices in electing their Elders, <hi>Act.</hi> 1. <hi>laſt. Act.</hi> 14.23.</p>
+               <p n="4">4. They did not as Chriſtians, for they did diſclaime it, as to belong to <hi>Chriſtians,</hi> barely ſo conſidered, to meddle at all in calling and ordaining <hi>Miniſters,</hi> and ſome of you alſo they did call, ſhould not have all the num<g ref="char:EOLhyphen"/>ber of their name, nor allowed to doe ſo.</p>
+               <p n="5">5. Not as <hi>Chriſtians</hi> from your owne words, as you acknowledge, ſay<g ref="char:EOLhyphen"/>ing, which yet I ſpeake not in favour of their calling, for I look upon it as Antichriſtian, and directly oppoſing Chriſts Word, and approve you al<g ref="char:EOLhyphen"/>ledge for it. <hi>Matth.</hi> 20.25, 26.</p>
+               <p>Ob. <hi>The Prelates in their Ordination, command us to Preach the Goſpel truly; now if we not rightly called, becauſe called by them; then one of theſe two things, or both follows; Firſt, either it is unlawfull for the Prelates to command us to preach the Goſpel.</hi> 2. <hi>Or elſe it is unlawfull for us to preach the Goſpel as they command us.</hi>
+               </p>
+               <p>
+                  <hi>R.</hi> Now they command you to preach the Goſpel by vertue of their or<g ref="char:EOLhyphen"/>daining of you, or not; If not, by vertue of their ordaining of you, then they diſclaimed their Ordination of you, but if by vertue of their ordaining of you, as ſo they did, and ſo it was unlawfull and Antichriſtian, even as they commanded you ſo to doe, and for you to Preach from their ſo comman<g ref="char:EOLhyphen"/>ding you, by vertue of their ordaining of you ſo, is unlawfull and Antichri<g ref="char:EOLhyphen"/>ſtian, as the Call from them is Antichriſtian, you have granted over and over.</p>
+               <p>Ob. <hi>If a Miniſter ſhould goe and preach amongſt the Pagans, and convert divers of them, he may be ſaid to be a Miniſter ſent of God.</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It is ſuch a Miniſter he meanes, as hath a Call to the <hi>Miniſtery,</hi> to ſeek for, as would find it in ſomething; but this will declare it no more then it would the Woman of <hi>Samaria</hi> to be one.</p>
+               <p>F. <hi>But I, ſaith he, propoſe this Querie to the Conſcience of any reaſonable man;
+<pb n="16" facs="tcp:38486:9"/>Suppoſe a profane pariſh, where no means of Grace ever was, nor any godly Chri<g ref="char:EOLhyphen"/>ſtian ever dwelt; ſhould from the convixion of the neceſſitie of Preaching, make ſuit to ſome godly Miniſter to be their Paſtor; I demand, whether this be not a divine Call from God, I conceive, ſaith hee, it is.</hi>
+               </p>
+               <p>
+                  <hi>R.</hi> This is a very ſtrange <hi>Querie,</hi> hee ſaies, a true Miniſter was one ſent of God into his Vinyeard, yet here, where there is not, nor ever was any godly Chriſtian, yet he concluded, he hath a devine call from God to be their Paſtor, when he ſaid before, <hi>God ſent into his Vinyeard, to build up li<g ref="char:EOLhyphen"/>ving Stones upon Jeſus Chriſt,</hi> the Apoſtles, they well know the minde of Chriſt, did not, nor would not have <hi>ordination</hi> of Paſtors over any but the flocks of Chriſt, nor no other ordination would the Apoſtles have, but that is in the Church, and this from the Apoſtles is left to obſerve, for <hi>election</hi> and <hi>ordination</hi> of true <hi>Miniſters, Act.</hi> 14.23. <hi>Act.</hi> 20.28. and to goe upon this ſuppoſition unjuſtly, though they be not a Church, yet they may come to be a Church the Apoſtles planted; no ſuch may be Churches, and for any to doe thus, if it be not to ru<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne before they be ſent, nothing is. The im<g ref="char:EOLhyphen"/>mediate-ſending of the Apoſtles, had no Commiſſion to ſet downe amongſt any ſuch people, to be a Church, till they were converted, as the Apoſtle ſaith, 1 <hi>Theſs.</hi> 1.9. you know what manner of entrance in we had unto you, and how we turned to God from Idolls, to ſerve the living and true God.</p>
+               <p>And the mediate call of God he cannot conceive to be here, to be called by, or in his Church,— for here is not one godly Saint amongſt them.</p>
+               <p>F. <hi>But I thinke, ſaith he, a Miniſter may be truly ſent by God, by a</hi> Synod <hi>of godly and Learned Divines to a Paſtorall charge, though the people call him not, but are a profane Pariſh, that deſire not powerfull Preaching, but hate it, and would oppoſe the comming in of ſuch a one.</hi>
+               </p>
+               <p>
+                  <hi>R.</hi> Mr. <hi>Knutton</hi> ſaith a little before, in his Book, what is contrary unto this:— I think, ſaith he, every Godly Miniſter will not account himſelf a Miniſter ſent of God, as he hath his calling from the Prelates, which ſaith he, I acknowledge is Antichriſtian, but will rather look at his divine Qual<g ref="char:EOLhyphen"/>lification for the Lords worke; as his <hi>internall call</hi> from God, and at his peoples election of him to ſuch a Charge as his outward call, and will look at the Epiſcopal ordination as a meer Ceremony, which cannot nullifie his divine call from God, and his Church,—as the Epiſcopall Ordination is in Annullity, not to be obſerved, and if Gods call, and his Churches call is ſuf<g ref="char:EOLhyphen"/>ficient, and only to be ſtood too, as it is, he need run to no other, and for any to force themſelves upon any people, oppoſing and hating any ſuch thing, it is contrary to the order given by Chriſt to his Miniſters, ſending them out, <hi>If they will not receive you, ſhake off the duſt off your feet againſt them.</hi> Matt. 10.14. <hi>Act.</hi> 18.6.</p>
+               <p>
+                  <pb n="17" facs="tcp:38486:9"/>In a word by way of Replie to what Mr. <hi>Knutton</hi> ſaith, to maintaine Tythes.</p>
+               <p>F. <hi>Tythes, ſaith he, are not Ceremoniall, for a Jewiſh ceremony was a Carnall tipe of an holy thing injoyned for the ſervice of the Tabernacle and Temple, only untill the time of Reformation.</hi>
+               </p>
+               <p>
+                  <hi>R.</hi> But Tythes was a Jewiſh Ceremony, and a carnall Tipe of an holy thing enjoyned for the Service of the Tabernacle and Temple, only untill the time of Reformation.</p>
+               <p n="1">1. Tythes Tipe out to the Levites, that <hi>God was their portion in Iſrael,</hi> Num. 18.20.21.24. <hi>Joſh.</hi> 13.14.33.</p>
+               <p n="2">2. It was enjoyned for the ſervice of the Tabernacle and Temple, <hi>this yee ſhall have for your ſervice in the Tabernacle.</hi> Numb. 18.21. <hi>Heb.</hi> 7.5.</p>
+               <p n="3">3. Untill the time of the Reformation, <hi>Heb.</hi> 9, 10.</p>
+               <p>Ob. <hi>Now to ſay, Tithes were inſtituted, to ſignifie ſomething for a time, as all other Ceremonies were, is not true.</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> But to ſay of Tythes, is truth, as thus; Tythes Type or ſignifie out <hi>God</hi> to be the portion of the Levites, from the reſt of their brethren in <hi>Iſrael,</hi> only in their Generation, and that till all their ſervice in the Tabernacle, and waiting upon the Aaltar in offering ſacrifices for ſinne, offered up by them, were put to an end by the alone and only ſacrifice for ſinne, by the death of Chriſt; this is truth, <hi>Num.</hi> 18.23, 24. <hi>Heb.</hi> 10.8, 9, 10, 11, 12.</p>
+               <p>Ob. <hi>Tythes are Morrall, and ſo perpetuall.</hi> 1 <hi>Cor.</hi> 9.13.14.</p>
+               <p>
+                  <hi>A.</hi> It is denied; Tyths are not morrall nor perpetuall, and for that Proof 1 <hi>Cor.</hi> 9.13.14. will prove no ſuch thing, and he might as well ſay, the Prieſt<g ref="char:EOLhyphen"/>hood of <hi>Aaron</hi> is morrall and perpetuall, and aledge as good proof to prove it, as here he brings to prove the morality of Tythes in <hi>Heb.</hi> 5.4.5. and this he will not undertake to maintaine, except hee will be Jewiſh perpetually, and everlaſtingly, <hi>Heb.</hi> 7.11.16.18. but let us conſider the Text he aledgeth, 1 <hi>Cor.</hi> 9.13.14. 1. The 13. <hi>Verſ. Doe ye not know that they which Miniſter about the holy things, eate of the things of the Temple, and they that waite at the Aaltar, are partakers with the Aaltar;</hi> This verſe will not prove Tithes to be morrall and ſo perpe<g ref="char:EOLhyphen"/>tuall, not morrall thus; becauſe the things of the Temple cannot be eaten no longer then there be them that Miniſter about the holy things of the Temple.</p>
+               <p n="2">2. Neither can there be any partaker of the Aaltar, no longer then they wait upon the Aaltar.</p>
+               <p n="3">3. It cannot be denyed, but that the Temple, Miniſtery, and the Aaltar, waiting, and the eating of the Sacrifice, and pertaking of the Altar, are all a<g ref="char:EOLhyphen"/>bolliſhed, the whole 9. <hi>Chapter, Heb.</hi> 1, 2, 3. teſtify, <hi>Heb.</hi> 10.9. the morallity of Tythes in this verſe, is flatly denyed, and to fall with the Miniſtery, Service and ſacrifice of that Temple and Altar.</p>
+               <p n="14">
+                  <pb n="18" facs="tcp:38486:10"/>14. <hi>Verſ.</hi> What will that ſay to prove the morallity of Tithes, from this verſe, is no mention of Tithes, much leſſe any thing for the morallity of Tithes, the words of the <hi>Verſe</hi> is, <hi>So hath God ordained, that they that Preach the Goſpel, ſhould live of the Goſpel,</hi> that is, ſaith Mr. <hi>Knutton</hi> by <hi>Tythes;</hi> and becauſe the Apoſtle doth not not ſay ſo with him, hee chargeth the Apoſtles argument to be lame.</p>
+               <p>His ſpeech impertinent: wherein Mr. <hi>Knutton</hi> is in one, if not both theſe offences; Firſt, if he did not underſtand the Apoſtles mind, he ſhould not have ſo charged him. 2. Seing the Apoſtles words would not ſerve for his purpoſe, he ſhould not have wreſted them from the Apoſtles mind; but conſider the words in the Verſes, <hi>ſo hath God ordained, that they that Preach the Goſpel, ſhould live of the Goſpel:</hi> theſe words deny this thing morrally to have appertained to thoſe that ſerved under the Law: and ſo not morrall, for it is peculiar to thoſe that preach the Goſpel, and it allows it not morrall to the <hi>Levites</hi> before them, as the <hi>Tythes</hi> of the <hi>Levites,</hi> not theirs, and ſo not morrall &amp; perpetuall.</p>
+               <p>Not <hi>Morrall:</hi> for if it had been morrall and perpetuall, then the Churches ſhould have given it to the Apoſtles, and they have declared it to them ſo to be, and to have refuſed it, they ſhould not but have taken it, except they would part with what was morrally their right; but the Apoſtles knew they were not to require any thing as morrally in the Tything under the <hi>Levites,</hi> and hee ſpeaks plainly, that was theirs, was properly theirs, as they preached the Go<g ref="char:EOLhyphen"/>ſpel, which the <hi>Levites</hi> under the Law had no part in it. <hi>Heb.</hi> 13.10. and that which was the <hi>Levites,</hi> was theirs as they ſerved in the The Tabernacle, and the more freer the Goſpel is in diſpenſation, the more like it ſelf it is, and he that weigheth taking leaſt in the free diſpenſation of the Goſpel, holds forth the Goſpel in the greateſt freeneſſe. <hi>Mat.</hi> 10.8. 1 <hi>Cor.</hi> 9.18.</p>
+               <p>Ob. <hi>Tythes are Morrall, for the Heathen, who by the light of nature, judge by the light of Nature; Tythes were to be paid to the Gods that they worſhipped.</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Such a thing as this, to have been drawn from the Heathen, pertaining to their worſhip, to be obſerved by <hi>Iſrael,</hi> unto the true God, was an abomi<g ref="char:EOLhyphen"/>nation in <hi>Iſrael,</hi> and forbidden by God himſelf, <hi>Ex<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d.</hi> 23.13. you ſhall not ob<g ref="char:EOLhyphen"/>ſerve other Nations, to Worſhip me as they doe their Idolls, and we under the Goſpel are exhorted <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o keep our ſelves from Idolls, 1 <hi>Joh.</hi> 5.21. and as the A<g ref="char:EOLhyphen"/>poſtle ſaith, an Idoll is nothing, neither is any thing offered to them; any thing, 1 <hi>Cor.</hi> 10.19, 20.</p>
+               <p>Ob. <hi>Tythes were the Lords right long before the Law was given, therefore Tythes are Morrall.</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Was Tythes only the Lords right? whoſe was all the the ſubſtance be<g ref="char:EOLhyphen"/>ſides? not only Tythes, but all was Gods, as in <hi>Pſal.</hi> 50.10. <hi>If I need any thing, I will tell thee, the Cattell on a Thouſand hills are mine,</hi> And as the Apoſtle, 1 <hi>Cor.</hi>
+                  <pb n="19" facs="tcp:38486:10"/>10.26. <hi>The earth is the Lords, and the fulneſſe thereof:</hi> how argues this the morrallity of <hi>Tythes</hi> before the Law was given; if hee meanes they were Gods in a morrall right, ſo was all the ſubſtance in all the world; if he mean ſo, God gives not the whole, nor it in any part unto any Creature, this Right, his it is, and he is the Soveraigne Lord to diſpoſe of his own as he pleaſeth, and he ne<g ref="char:EOLhyphen"/>ver gave Tythes in the morrallity of the right of them, thus unto the Leviti<g ref="char:EOLhyphen"/>call Prieſthood of <hi>Aaron,</hi> the <hi>Levites:</hi> for he did enjoyne and command them to offer up the Tythe of the Tythe received of the people in ſacrifice, unto the Lord, and this they were to doe, ſo long as they received Tythes in the Leviti<g ref="char:EOLhyphen"/>call Prieſthood, and that in a ſtricter manner in what they offered of that, then that of the offering of the people; of that they might eat, but not eate of that offered for themſelves, <hi>Numb.</hi> 18.26, 27, 28. <hi>Levit.</hi> 6.23.</p>
+               <p>F. <hi>He ſaith, all that which concerning Tythes, was inſtituted in the Law, was, that Tythes ſhould be aſſigned unto the Levites, ſo long as they ſhould ſerve the Ta<g ref="char:EOLhyphen"/>bernacle; And though God gave the Tythes to the Levites, yet ſaith hee, he did not found them in that incorporation.</hi>
+               </p>
+               <p>
+                  <hi>R.</hi> Neither did God firſt found his right in the Tenths, as the Tythe, but in his right of all, God gave the land to all the tribes of <hi>Iſrael,</hi> except them, <hi>but to the</hi> Levites <hi>your brethren, I give none, he ſhall have the Tenth of all, and live of the ſacrifice.</hi> Deut. 10.9, 10. and from his right in all he diſpoſeth the tenth to them. And God hath declared only his taking the right of the Tythe for a time only in that incorporation, as the Truth affirmes, ſo long as they ſerve the Tabernacle, <hi>Num.</hi> 18.21. but ſaith he, the ſame right deſcended to the Miniſters of the Goſpel, but he is too ſhort to bring any Word for it, and this was denyed before. But he brings in this lame Argument, which cannot goe upon all foure, nor upon two thus; ſo Tythes were due to the Leviticall Mini<g ref="char:EOLhyphen"/>ſters, as Miniſters, not as Leviticall, and ſo are ſucceſſively due to Evangelicall Paſtors, as Paſtors, not formally as Evangelicall by way of Reply; thus the <hi>Le<g ref="char:EOLhyphen"/>vites</hi> by the Offerings and Sacrifices of the Tabernacle to which they ſerved were maintained; but when the Offerings and Sacrifices of the Tabernacle cea<g ref="char:EOLhyphen"/>ſed, the maintenance of them as Miniſters muſt be at an end. <hi>Numb.</hi> 18.21.31. there is no Law of right reaſon, nor Proofs of Scripture to maintaine them as Miniſters longer, but approve to the contrary, <hi>Heb.</hi> 13.10.</p>
+               <p>Againe, it was not <hi>Leavies</hi> ſimply, as <hi>Levites</hi> did accompliſh the Service of the Tabernacle, but as they were <hi>Levites</hi> miniſtring, and <hi>Leviticall Miniſters</hi> that received it, as the <hi>wages</hi> of their worke. <hi>Num.</hi> 18.31. ſo ſaith hee, are ſuc<g ref="char:EOLhyphen"/>ceſſively due to Evangelicall <hi>Paſtors,</hi> as <hi>Paſtors</hi> not formally as Evangelicall, and thus it ſeems he would imply a Miniſter to be maintained, and maintenances due to them, neither doing the ſervice of the Law, nor the Goſpel, not Levi<g ref="char:EOLhyphen"/>tically as ſerving in the Tabernacle, nor Evangelically, as preaching the Goſpel;
+<pb n="20" facs="tcp:38486:11"/>was ever any ſuch thing as this affirmed under the Law, or ſpoken for in the Goſpel in the leaſt allowance of ſuch a thing, the Law was againſt it, it was the Prieſts portion for his ſervice. <hi>Pſal.</hi> 16.4. the Apoſtle reprehends it. <hi>Phillip.</hi> 3.18, 19. But his Argument would joyn a Paſtor or Miniſter in name and main<g ref="char:EOLhyphen"/>tenance by meanes in the ſubſtance together, and ſo would contradict the wiſ<g ref="char:EOLhyphen"/>dome of the Parliament, who ſeeing this evill by Order, declare putting it downe, as in all Non-reſidences, plurality dumb-dogges, ſo far as God hath given them light, to part of that he will have them ſtrip the falſe and Anti-Chriſtian Miniſtery of, till God hath made her deſolate and naked, and be<g ref="char:EOLhyphen"/>cauſe his Argument is lame, and cannot ſtand, I need not ſtand long to prove it to halt, or not to goe.</p>
+               <p>Ob. <hi>It was the cuſtome of Gods Church in all ages, to pay Tythes to the Lord; before the Law was written, Abraham paid Tythe of all,</hi> Gen. 14.20. <hi>therefore Tythes are Marrall.</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It is denied, it cannot be proved to be the cuſtome of the Church of God in all Ages before the Law, to pay Tythes. Firſt, this doth not prove it, to in<g ref="char:EOLhyphen"/>ſtance only <hi>Abraham</hi> in his Age. 2. And that in <hi>Abraham;</hi> for a Cuſtome doth not prove it, being done but once by <hi>Abraham</hi> in all his life, as we can read of; and to prove the morrality of Tythes, being before the Law, he might as well goe about to prove the ſame of Circumciſion, and of burnt-offering, that theſe were all morrall, and perpetuall as well as Tythes, and plead for them to be, which were before the Law, as well as Tythes, and obſerved by <hi>Abraham.</hi> And for that he ſaith of <hi>Jacob,</hi> he ſaith nothing to prove it, for it cannot be proved that <hi>Jacob</hi> paid Tythes at all in any place, and for his bringing in of <hi>Jacob</hi> now, is nothing to the purpoſe.</p>
+               <p>F. <hi>Further he ſaith, Tythes were due, &amp; were paid to</hi> Milchizedech <hi>by</hi> Abraham.</p>
+               <p>
+                  <hi>R.</hi> This Argument hath two parts in it; Firſt Tythes were due, and in this he hath recourſe unto what he had ſaid before of <hi>Jacob,</hi> of whom he conceived it was <hi>Jacobs</hi> opinion, that Tythes was to be paid, becauſe <hi>Jacob</hi> vowed ſo to doe it, in which, ſaith hee, <hi>Jacob</hi> ſinned againſt God, if he did not know it plea<g ref="char:EOLhyphen"/>ſed God, that he would vow ſuch a thing, but in aſmuch as he finds, that <hi>Ja<g ref="char:EOLhyphen"/>cob</hi> did it not, here he leaves him under the firſt charge of a raſh <hi>Vow,</hi> and ſe<g ref="char:EOLhyphen"/>condly, of never obſerving, that Mr. <hi>Knutton</hi> ſaith, was a Morrall thing by him to be obſerved; and therefore ſaith he, in this fourth Reaſon, that hee might ſinne; yet to ſay ſomething, becauſe Tythes were due, and ſo as from <hi>Jacob,</hi> here is a morrall due, as if he ſhould ſay, but not Morrally kept, <hi>ergo,</hi> not ſo morrall in <hi>Jacobs</hi> judgement, to Action. Second part of the Reaſon, and were paid to <hi>Milchizedech</hi> by <hi>Abraham;</hi> here it's paid, but not as due, morrall and perpetuall the dues, was minded in referrence unto <hi>Jacob:</hi> but paid only by <hi>Abraham</hi> to <hi>Milchizedech,</hi> not in the dues morrall, that part of the Reaſon
+<pb n="21" facs="tcp:38486:11"/>had referrence unto <hi>Jacob;</hi> and that was in referrence to opinion, and not for action.</p>
+               <p>Ob. <hi>But</hi> Abraham <hi>paid it to</hi> Milchizedech, <hi>and ſo Tythes ought to be paid to Chriſt; elſe Chriſt ſhould faile in ſomething, to be as Milchizedech was.</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> And ſo ſhould Chriſt doe, except only <hi>Abraham</hi> ſhould pay it him.</p>
+               <p>Ob. <hi>Now Tythes being due to Chriſt, muſt be paid to his ſervants, the Miniſters of the Goſpel.</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> How doth this hold in Chriſt, anſwering <hi>Milchizedech?</hi> was the Tythes payed by <hi>Abraham</hi> to <hi>Milchizedech,</hi> transferred by <hi>Milchizedech,</hi> from him, to his ſervants, or Miniſters of his? there was no ſuch thing mentioned of <hi>Mil<g ref="char:EOLhyphen"/>chizedech,</hi> nor could be, for the Prieſthood, nor the rights of it could not be transferred to any other, if it could have been, hee could not properly have been the Type of Chriſt his Antitipe; for Chriſt, who is the Antitipe of <hi>Mil<g ref="char:EOLhyphen"/>chizedech</hi> his Prieſthood, and the rights of it, are not, nor cannot be transfer<g ref="char:EOLhyphen"/>red over to any other, <hi>Heb.</hi> 5.10. <hi>Heb.</hi> 7.24. Concerning Tythes, obſerve theſe particulars. 1. That Tythes Tipe or ſigne out to the Levites, that God was their portion in <hi>Iſrael, Num.</hi> 18.20, 21.24. <hi>Joſh.</hi> 13.14.33. <hi>Deu.</hi> 10.8, 9. 2. That it was injoyned for the Saints of the Temple and Tabernacle, <hi>Num.</hi> 18.21. <hi>Heb.</hi> 7.5. 3. Untill the time of Reformation. <hi>Heb.</hi> 9.10. 4. That this was only to con<g ref="char:EOLhyphen"/>tinue in the Generation of the Levites, till all Sacrifices and Offerings for ſinne by them in the Temple and Tabernacle was put to an end, by the comming of that Tabernacle pitch'd by God, and not man, which was <hi>Jeſus Chriſt,</hi> put<g ref="char:EOLhyphen"/>ting all the former Sacrifices to an end, by the ſacrifices of Himſelf, the only Sa<g ref="char:EOLhyphen"/>crifice for ſinne, <hi>Numb.</hi> 18.23, 24. <hi>Heb.</hi> 9.11. <hi>Heb.</hi> 10.8.9.10.11, 12.</p>
+               <p>Tythes not Morrall nor perpetuall, and now under the Goſpel not to be paid, nor taken for theſe Reaſons.</p>
+               <p n="1">1. Be cauſe it calls for the ſetting up of the Jewiſh Temple, Tabernacle and Altar. 2. Becauſe it calls for the Prieſt-hood of <hi>Aaron,</hi> and the Levites in their former Office to Serve. 3. Becauſe it layes a yoke of bondage upon him that paies Tythes, and upon him that takes Tythes, which the Goſpel ſets at liber<g ref="char:EOLhyphen"/>ty from. 1. To pay Tythes, is to be bound to the whole law of Tythes, in which was a Lambe to be brought for a ſinne-offering, which is aboliſhed. 2. He that was to take Tythes, was one who offered daily ſacrifice for ſinne, which if any doe ſo now, he denies Chriſt come in the fleſh, and the alone ſacrifice for ſin by his death.</p>
+               <p>A word or two to that appertaines to the Goſpel, Miniſters, and the main<g ref="char:EOLhyphen"/>tenance of them, in that the Goſpel holds out to us. 1. Concerning the Lords ordaining, <hi>that they which preach the Goſpel, ſhould live of the Goſpel;</hi> that the Word of God holds out to us in the time of the <hi>Goſpel,</hi> by his Worke, he is to be a preacher of the <hi>Goſpel.</hi> 2 <hi>Cor.</hi> 9.14.</p>
+               <p>
+                  <pb n="22" facs="tcp:38486:12"/>Secondly, the Word holds out to us the nature or quallity of this worke, that it is in one preaching the Goſpel, choſen in the Church to this worke, is to labour in the Word and Doctrine. 1 <hi>Tim.</hi> 5.17. the Word requires of him, that it may be ſo; <hi>theſe things in diligence labour.</hi> 1. Attending upon the work, <hi>Rom.</hi> 12.7, 8. 2. Herein he is to give attendance to reading of the Scriptures, 1 <hi>Tim.</hi> 4.13. 2 <hi>Tim.</hi> 3.16. 3. Which ſtudy to ſhew himſelfe approved unto God, a workman that need not to be aſhamed, deviding the Word of God aright. 2 <hi>Tim.</hi> 2.15. 4. He muſt hold faſt the true pattern of wholſome words. 2 <hi>Tim.</hi> 1.13. <hi>Tit.</hi> 1.9. 5. He muſt be apt to teach. 1 <hi>Tim.</hi> 3.2. 2 <hi>Tim.</hi> 2.24. 6. Heark<g ref="char:EOLhyphen"/>ning to the Exhortation of Chriſt by his Word to this Worke, through the Spirit, fulfilling obedience to the exhortation from the ſame Spirit dwel<g ref="char:EOLhyphen"/>ling within them, 2 <hi>Tim.</hi> 1.14. 7. Laboriouſly finiſhing this worke of preach<g ref="char:EOLhyphen"/>ing the Goſpel, watching thereunto, 2 <hi>Tim.</hi> 4.2.5.</p>
+               <p>And as theſe ſeven particulars are conſiderable to lie in the worke of the Miniſtery, in preaching the Goſpel, ſo there is theſe foure or five properties the Word requires of thoſe will take upon them this Work, and undergoe it.</p>
+               <p n="1">1. Willingly, not by conſtraint, nor for ſilthy Lucre, but of a ready mind, in a ſimple freeneſſe to ſerve the Church, the folk of Chriſt, 1 <hi>Pet.</hi> 5.2. 2. A high eſteem of the Worke in preaching the Goſpel, counting it in it ſelf, that they have a precious reward, in being imployed in the Worke it ſelf. 1 <hi>Tim.</hi> 1.12. 1 <hi>Cor.</hi> 9.17, 18. 3. Contentedneſſe of mind, notwithſtanding the want of any outward thing to ſupply them for this their work. 1 <hi>Tim.</hi> 6.6. 1 <hi>Cor.</hi> 4.11, 12, 13. <hi>Epheſ,</hi> 4.11, 12. 4. Free and willing ſubjection, to ſuffer any thing for the Church, in the Cauſe of Chriſt. <hi>Act.</hi> 20.22, 23, 24. <hi>Act.</hi> 21.13. <hi>Coloſſ.</hi> 1.24. 5. And all this freeneſſe of will to the worke and undergoing, and accompliſh<g ref="char:EOLhyphen"/>ing of it, to be from no other principle or power, then by Jeſus Chriſt alone. <hi>Phil.</hi> 4.13. <hi>Gal.</hi> 1.11, 12. <hi>John</hi> 15.5. <hi>Rom.</hi> 15.18.</p>
+               <p>Further, in reference unto thoſe that are to give the maintenance unto thoſe that preach the Goſpel are, conſiderable in theſe particulars. 1. Is to acknow<g ref="char:EOLhyphen"/>ledge that God hath ordained, that thoſe that preach the Goſpel, ſhould live of the Goſpel. 1 <hi>Cor.</hi> 19.14. 1 <hi>Theſ.</hi> 5.12. 2. That the maintenance is there to be given and communicated in that Church wherein the Miniſter labours in preaching the Goſpel, 1 <hi>Theſ.</hi> 5.12. now when he that labours in the <hi>Goſpel</hi> &amp; the <hi>Church,</hi> is thus united, as he is over them their Paſtor, &amp; they the flock the <hi>Word</hi> requires.</p>
+               <p n="1">1. That they ſhould have them in ſingular love for the Work ſake. 1 <hi>Theſſ.</hi> 5.13. 2. Such alone as highly eſteem of them, <hi>Phil.</hi> 2.29. <hi>Iſai.</hi> 52.17. <hi>Nahum.</hi> 1.15. <hi>Rom.</hi> 10.15. 2 <hi>Cor.</hi> 8.24. 3. So as they count them worthy of double honour. <hi>Tim.</hi> 5.17. 4. Such alone, as is fruitfull in giving and communicating of all needfull, yea bountifull ſupply unto them, according to their abilitie. <hi>Phil.</hi> 4.14, 15, 16, 17, 18. 2 <hi>Cor.</hi> 18.1, 2, 3, 4, 5, 6. 2 <hi>Cor.</hi> 9.5.13. 5. And which is not the leaſt
+<pb n="23" facs="tcp:38486:12"/>diſcovery of the true love unto the Paſtors preaching the Goſpel, to receive their miniſtery in all love, attending and hearkning unto their Miniſtery they have received of the Lord, and Miniſter unto them, which is one of the chefeſt fruits the true Paſtor will rejoyce and take pleaſure in amongſt his flock in the Lord. 2 <hi>Cor.</hi> 7.2. 1 <hi>Pet.</hi> 2.2. <hi>Heb.</hi> 13.17. <hi>Rom.</hi> 1.8, 10.11, 12. <hi>Phil.</hi> 4.1. 1 <hi>Theſſ.</hi> 2.13.19, 20. the third <hi>Epiſt.</hi> of <hi>John,</hi> verſ. 3, 4. And with this, they both pray for them, and praiſe God for them, <hi>Heb.</hi> 13.18. <hi>Gal.</hi> 1.22, 23.</p>
+               <p>Two particulars concerning the Paſtor, in reference to his maintenance.</p>
+               <p n="1">1. To be contented with the free Contribution of the Church, under the ex<g ref="char:EOLhyphen"/>hortation of the Word, 2 <hi>Cor.</hi> 9.6. <hi>Phil.</hi> 4.12. 2. The place where he is to re<g ref="char:EOLhyphen"/>ceive his maintenance, is of the Church, by whom he is freely choſen and elect<g ref="char:EOLhyphen"/>ed in Ordination over them, labouring in the Word and Doctrine, <hi>Act.</hi> 20.28. <hi>Gal.</hi> 6.6. 1 <hi>Theſſ.</hi> 5.12, 13. <hi>Phil.</hi> 4.15. <hi>Act.</hi> 14.23.</p>
+            </div>
+            <div n="4" type="question">
+               <head>Q<g ref="char:V">Ʋ</g>ESTION <hi>IIII.</hi> ¶ Whether is the Baptiſme of Infants a true and lawfull Baptiſme, or not?</head>
+               <p>F. I <hi>Affirme, it is as true, right, Lawfull and fit Baptiſme, and ought to be uſed in a Chriſtian Church, profeſſing Gods Truth.</hi>
+               </p>
+               <p>
+                  <hi>R.</hi> Baptiſme of Infants is not true Baptiſme, the Reaſon is, becauſe true Bap<g ref="char:EOLhyphen"/>tiſme hath the truth of Chriſt witneſſeth it to be true Baptiſme, but the truth of Chriſt witneſſeth not that the Baptiſme of Infants is true Baptiſme, <hi>Act.</hi> 10.47.48. <hi>Act.</hi> 11.17.18. <hi>Act.</hi> 8.12. 2 <hi>Reaſ.</hi> Is not right and lawfull Baptiſme, becauſe right and lawfull Baptiſme, according to Chriſts Inſtitution, <hi>is to Teach and Baptiſe,</hi> but <hi>Infants</hi> are not capable of being taught, therefore not to be Bap<g ref="char:EOLhyphen"/>tized, <hi>Matt.</hi> 18, 19. <hi>Mar.</hi> 16.15.16. 3. That Baptiſme that the truth of Chriſt teſtifies not to be his Baptiſme, and is ſuch that is not right and lawfull from the inſtitution, is not fit, but unſuitable any ſuch thing ſhould be obſerved by any Church profeſſing the truth of Chriſt. <hi>Col.</hi> 2.5, 6. <hi>Epheſ.</hi> 4.21. 2 <hi>Cor.</hi> 13.8.</p>
+               <p>Ob. F. <hi>Becauſe there is the ſame Analogy of reaſon of Baptiſme, as of Circumci<g ref="char:EOLhyphen"/>ſion, the ſame internall and ſpirituall thing ſignifie Remiſſion of ſinnes, and Mor<g ref="char:EOLhyphen"/>tification of the fleſh.</hi>
+               </p>
+               <p>
+                  <hi>A.R.</hi> It is denied, there is not the ſame Analogy of reaſon of Circumciſion, as is of Baptiſme, for they differ in the Inſtitution in their ſubject, and in the Covenant to which either did appertaine. As may be ſeen; for Circumciſion, God Inſtitutes it in <hi>Gen.</hi> 17.8, 9. God ſaith to <hi>Abraham, I will give thee and thy ſeed after thee, the Land, even all the Land of</hi> Canaan <hi>for an everlaſting poſſeſſion, and I will be their God,</hi> upon this, God enjoynes him and his ſeed to keep his Covenant, what that is, is laid downe in the 10.11.12, 13.14. verſes of the ſame Chapter following, in ſigne and obligation to which, they were to be Circum<g ref="char:EOLhyphen"/>ciſed; thus in the inſtitution of Circumciſion, here is the ground laid down, God makes it with <hi>Abraham,</hi> and his ſeed after the fleſh. Firſt, upon this ground,
+<pb n="24" facs="tcp:38486:13"/>that the whole Land of <hi>Canaan</hi> ſhould be theirs. 2. The Act in the Inſtituti<g ref="char:EOLhyphen"/>on to be done, is to Circumciſe the fore-skinne of the fleſh. 3. The ſubject there, Males eight daies old, and all in his houſe are bought with his money. 4. Is the Covenant to which Circumciſion in the Inſtitution ſtood in relati<g ref="char:EOLhyphen"/>on unto i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>; was that Covenant that had the promiſe upon Condition laid down to be enjoyed by them, as they were obedient, and threatned a curſe to the breakers of it, <hi>Verſ.</hi> 14. <hi>Rom.</hi> 2.25. <hi>Gal.</hi> 5.3.</p>
+               <p>But there is another Covenant mentioned, <hi>Gen.</hi> 17.19. which is called the <hi>New Covenant,</hi> as the Apoſtle ſaith in the <hi>Galatians,</hi> are the Two Teſtaments, and as <hi>Iſay.</hi> 51.32, 33. Compared, <hi>Heb.</hi> 10.16. <hi>Heb.</hi> 8.13.</p>
+               <p>So then the Covenant of God, mentioned to <hi>Abraham</hi> in <hi>Iſaack,</hi> I will eſtabliſh my Covenant in thy ſeed, as of one which is Chiſt, <hi>Gal.</hi> 3.16. which holds out cleerly two diſtinct Covenants, one had referrence unto <hi>Abraham,</hi> and all his ſeed after the fleſh, the other of <hi>Iſaack,</hi> and that was only in Chriſt, of whom the Scripture ſpeakes, <hi>That God would give Chriſt for a Covenant, Iſai.</hi> 42.6.</p>
+               <p>Circumciſion is cleer to have appertained only unto the firſt, that which gendered unto bondage, as the Apoſtle ſaith in <hi>Act.</hi> 18.10, 11. to them that would have brought in Circumciſion upon the Diſciples, the Apoſtle calls it a yoake, <hi>that wee,</hi> ſaith hee, <hi>nor our Fathers were able to beare.</hi>
+               </p>
+               <p>Now there cannot be the ſame Annalogy of Reaſon of Baptiſme, as of Cir<g ref="char:EOLhyphen"/>cumciſion, the Inſtitution of Baptiſme is not expreſſed upon no ſuch. 1. <hi>Ground.</hi> 2. No ſuch <hi>Act.</hi> 3. No ſuch <hi>Adminiſtration.</hi> 4. No ſuch <hi>Subject</hi> as <hi>Children.</hi> 5. In relation to no ſuch Covenant, to which Circumciſion ſtood in relation unto.</p>
+               <p>Ob. <hi>Abraham received Circumciſion, the ſeale of the Righteouſneſſe of faith, therefore it ſeems, that Circumciſion was a ſeale to the Covenant of grace,</hi> Rom. 4.11.</p>
+               <p>
+                  <hi>A. Abrahams</hi> Faith was not imputed to him for Righteouſneſſe, becauſe he was Circumciſed, nor becauſe he ſhould be Circumciſed, for it was imputed to him when he was uncircumciſed, <hi>Rom.</hi> 4.10.</p>
+               <p>And the moſt can be ſaid, is, that of him only Circumciſion may be ſaid, hee received the Signe of Circumciſion, as the ſeale of the Righteouſneſſe of Faith, though it be doubtfull he did ſo, but only, as he ſhould be the Father of the faithfull under Circumciſion; for the reaſon the Apoſtle gives is, <hi>That he might be the Father of all that Beleeve, both of the Circumciſion, and uncircumciſion,</hi> as the eleventh and twelfth <hi>verſ.</hi> of the fourth of the <hi>Romanes</hi> doth plainly import; and none did receive it as the Father of the Faithfull, as <hi>Abraham</hi> did.</p>
+               <p>
+                  <pb n="25" facs="tcp:38486:13"/>Againe, that which ties or holds a man under a yoake of Bondage, where<g ref="char:EOLhyphen"/>in he cannot but ſinne, as Circumciſion binds to obſerve the whole law, and ſo long as a man is under the Law, he is under ſinnes, power and Dominion: that it binds under a yoake, <hi>Gal.</hi> 5.3. <hi>Rom.</hi> 7.5. ſuch a thing as this cannot have the ſame Annalogie of Reaſon with Baptiſme to Beleevers, internally and ſpiritually to ſignifie remiſſion of ſinnes, and Mortification of the fleſh, <hi>Rom.</hi> 6.3.6. <hi>Phil.</hi> 1.7. 1 <hi>Pet.</hi> 3.21.</p>
+               <p>Baptiſme meanes ſomething Circumciſion did not, therefore comes not in the room of circumciſion, for it hath to do with a ſubject hath faith. <hi>Mar.</hi> 16.16</p>
+               <p>Further, the Chriſtian Beleevers have no cauſe to complaine, that their Children are not as the Jewes Children were, under the Law of Circumciſion, in which they were under a yoake, they nor their Fathers were able to beare, <hi>Act.</hi> 15.10.</p>
+               <p n="2">2. Nor no cauſe to complaine, that their Infants are not taken into Bap<g ref="char:EOLhyphen"/>tiſme before actually they doe beleeve; Firſt, becauſe God hath put beleeving and Baptiſme together, <hi>Mar.</hi> 16.16.</p>
+               <p>Secondly, becauſe God hath not laid it downe to us in his Word, Childrens Baptiſme.</p>
+               <p>Thirdly, becauſe Baptiſme is then rightly injoyed, when by faith, the ſub<g ref="char:EOLhyphen"/>ject a beleever, participates of Chriſt in his death and Reſurrection, <hi>Rom.</hi> 6.3, 4.</p>
+               <p>Fourthly, if there were any outward priviledge, barely in partaking of the Ordinances of Baptiſme for Children of beleevers, the Word of God muſt ſhew it to us, but the Word of God tells of no ſuch thing to any barely to per<g ref="char:EOLhyphen"/>take of the outward Ordinances, ſimply in the outward Adminiſtration of it, without faith he that beleeves and is <hi>Baptized,</hi> ſhall be ſaved, but if they have not faith, the Word tells us, they may be in the <hi>gaell of Bitterneſſe, and the bond of iniquity, with</hi> Symon Magus, <hi>Act.</hi> 8. though outwardly he had been Baptized.</p>
+               <p>Ob. <hi>But if the Infants of Beleevers be not baptiſed now, as well as the Infants of the Jewes were Circumciſed, then the grace and favour of God is more obſcured and ſtraite, and leſſe teſtified then to the Jewes.</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> No, it is now like it ſelf in manifeſtation, and let none ſay it is obſcure, when God ſaith it is light, take heed of calling Light darkneſſe, and darkneſſe light, there is a woe pronounced againſt ſuch; God is not now holding out himſelf to us in ſhadows, but in ſubſtance, <hi>in the manifeſtation of his Son Jeſus Chriſt.</hi> 2. <hi>Cor.</hi> 3.17, 18. And neither it were, not to obſcure the light of Gods grace come by Chriſt, to ſhut it up in the womb and the cradle, where nothing can be ſaid of it, be not to obſcure it, and a great indignity offered unto Jeſus Chriſt, to ſay, in that his Word hath not commanded Infants baptiſme, the grace of God is obſcured.</p>
+               <p>Ob. <hi>But Chriſtian Infants are in the Covenant of grace, as well as the
+<pb n="26" facs="tcp:38486:14"/>Children of the Iſraelites; good reaſon therefore the ſeales of the Covenant ſhould not be ſtraitned, nor made narrower then Circumciſion was.</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> God inſtituted a Signe to the Jewes, to paſſe only upon the Males, and only on them obſerved; ſo the inſtitution of Baptiſme takes in the ſubject upon Faith and repentance, and no larger can this be, then the inſtitution gives it forth to be; God exempted the Females under the Law, from a ſigne of that Covenant with the Jewes, yet of them belonged unto the Covenant of grace, of whom the Apoſtle <hi>Peter</hi> ſpeaks of thoſe holy women, which truſted in God, 1 <hi>Pet.</hi> 3.5. and ſo were ſuch of their females in the Covenant of grace, without the Signe or Seale to it. And as by his Word he hath not inſtituted Baptiſme to Infants, there is no warrant for it, and the doing of it without a command can be but <hi>Will Worſhip;</hi> and though it be granted, that of the Children of Be<g ref="char:EOLhyphen"/>leevers they are, that doe belong to the Covenant of grace, yet all their Chil<g ref="char:EOLhyphen"/>dren doe not, and who they be of them that doe, it cannot be in their Infan<g ref="char:EOLhyphen"/>cy knowne unto us, nor it is not barely the belonging to the Covenant of grace, ſo doth all afarre off, as many as the Lord our God ſhall call; yet theſe are not to be baptized till they are called.</p>
+               <p>Ob. <hi>The place alledged,</hi> 1 Cor. 7.14. <hi>Your Children are holy, if but one perſon in the marriage eſtate, the man or the woman be Beleever, their children are holy, as belonging to the Covenant of grace.</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> This cannot be affirmed, unleſſe they will ſay, all the Children of Be<g ref="char:EOLhyphen"/>leevers are holy as belong unto the Covenant of grace, but that is falſe, for Be<g ref="char:EOLhyphen"/>leeving <hi>Abraham</hi> had an <hi>Iſmael,</hi> a beleeving <hi>Iſaac</hi> an <hi>Eſau.</hi>
+               </p>
+               <p>Againe, to affirme all the Children of Beleevers are holy, as belonging unto the Covenant of grace, is falſe, unleſſe they will ſay, thoſe that are in the Co<g ref="char:EOLhyphen"/>venant of grace, may fall out of it, which is to hold the errour of the <hi>Armini<g ref="char:EOLhyphen"/>ans,</hi> contrary to this Scripture, <hi>Joſh.</hi> 13.1. <hi>Philip.</hi> 1.6. and hee that hath begun the good worke will perfect it.</p>
+               <p n="3">3. If it be ſaid, their Children are holy, as belonging unto the Covenant of grace, they muſt diſtinguiſh and know which of them be ſuch, or elſe the ſeal of the Covenant, Baptiſme cannot be adminiſtred upon them.</p>
+               <p n="4">4. Or elſe they muſt bring the Word of God, that ſaith plainly, they are ſo holy to pertake of Baptiſme; within that place is no ſuch thing expreſſed.</p>
+               <p n="5">5. It muſt be made out ſo holy, belonging unto the Covenant of Grace, as they are ſo by calling, and have faith, or elſe all afarre off, who belong unto the Covenant of grace, yet not called for implicite reſpect unto them, Baptiſ<g ref="char:EOLhyphen"/>me ſhall be Adminiſtred upon all the world, without any calling or reſpect of faith in any, the Argument taketh part with this, having not a word of Chriſt to ſpeake for it.</p>
+               <p>
+                  <pb n="27" facs="tcp:38486:14"/>Ob. <hi>Infants are capeable of the thing ſignified by Baptiſme, therefore they may have it.</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> If they are capable, it is by Grace, and not by nature, and till their capeableneſſe by grace be manifeſted, nothing is ſaid, if it be ſaid they are ca<g ref="char:EOLhyphen"/>pable by nature, then are all children: it is ſaid, <hi>many ſuch belong to heaven,</hi> But who that <hi>many</hi> be, muſt be knowne, Chriſt, as God knew all things, when hee ſaid, <hi>ſuch,</hi> all children, none can ſay he meant; Chriſt is ſaid to bleſſe <hi>them,</hi> and lay his hands upon them; Children were brought unto him, yet it is not ſaid, he baptized them; for it is ſaid, <hi>Chriſt himſelf baptized none,</hi> Joh. 4.2. and the Diſciples are ſaid to forbid them that brought little Children unto him, which if Chriſt had uſed to baptize them, they would not have forbid the bringing of them; and none of theſe things in the leaſt proves Childrens Baptiſme.</p>
+               <p>Ob. <hi>It cannot be infallibly diſcerned which man hath true grace, and is elected, we may and ought to judge very charitably upon an exact profeſſion, and ſo upon a bare profeſſion.</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It doth not follow therefore upon no profeſſion, that this Ordinance muſt paſſe, and to ſay, the faith of the Parents may warrant their Children Baptiſme, then the faith of Parents may warrant their Children to pertake of the ſupper, of which ſaith the Apoſtle, <hi>let every man examine himſelf, and ſo let him eate,</hi> 1 <hi>Cor.</hi> 11.28. and in <hi>Rom.</hi> 10.10. hee ſaith, with the heart man beleeves to righteouſneſſe, and with the mouth confeſſion is made to ſalvation: it is neither with the heart, nor the mouth of another.</p>
+               <p>Ob. <hi>But thoſe Phariſees teach and Baptize, Repent and Beleeve, and be baptized, is meant of ſuch who were of riper yeeres.</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The Inſtitution ſpeaks of no other; and we muſt hold unto the words of Chriſt, and not hearken unto the vaine Conſciences of men, and Arguments made up from Antichriſt, Apoſtacy, nor falſe Premizes drawne from the <hi>Jews,</hi> as what a falſe thing is this to ſay of the Jewes, The faith of the Parents, ap<g ref="char:EOLhyphen"/>plying the Righteouſneſſe of Chriſt to themſelves, by their Circumciſion, it made their Children to be borne Jewes by nature; the beleeving Jew could not apply the righteouſneſſe of Chriſt to him for his Circumciſion, for his Circum<g ref="char:EOLhyphen"/>ciſion ſtood in relation to the old Covenant to be done away, and bound him to the Law for Righteouſneſſe, by that, <hi>Gal.</hi> 5.2, 3, 4. though not as a Beleever, yet as he had by Circumciſion relation unto it, ſo he was under the Obligati<g ref="char:EOLhyphen"/>on to the firſt Covenant, to worke for righteouſneſſe, ſo far was Circumciſion remote to it, as for him to apply the Righteouſneſſe of Chriſt to himſelf by Circumciſion, and their Children were borne Jews in the fleſh, and not by faith propagated Jewes, which if ſo, then Beleevers, children of the Gentiles would be borne Jewes, now in the fleſh, whereas the Jewes are properly ſaid to be outwardly Jewes in the fleſh only, and by faith, a Jew is one in word,
+<pb n="28" facs="tcp:38486:15"/>and that of the Spirit, <hi>Rom.</hi> 2.28, 29. and till they have Faith, they are not ſo accounted, <hi>Gal.</hi> 3.9.</p>
+               <p>As for aledging whole houſholds were baptiſed, there is no mention made of any Children there were baptized, nor that there were any Children in thoſe houſholds mentioned, but in <hi>Act.</hi> 18.8. it is ſaid, <hi>Criſpus</hi> the chief Ruler of the Synagogue beleeved in the Lord, with all his houſhold, the thing could not be affirmed of Children.</p>
+               <p>Ob. <hi>Out</hi> 1 <hi>Cor.</hi> 10.2. <hi>that the Apoſtle makes there, paſſing under the Cloud, and and throughout the Red ſea, a Tipe of Baptiſme.</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> To bring it in a Tipe of Children, Baptiſme is falſe, and would take a<g ref="char:EOLhyphen"/>way the force of the Apoſtles Argument, for which he brings it, admoniſhing and advertiſing thoſe that partake of outward priviledges by their examples, that they fall not into the ſame ſinnes, read from the 6. verſe, to the 12. of that, 1 <hi>Cor.</hi> 10. Chapter.</p>
+               <p>Now it was not any thing pertaining unto Children, the Apoſtle meanes, who could not be forewarned by their examples, nor receive his admonition, he affirmes of what ſubjects he ſpeakes to, as the end of this his ſaying, 15. verſ. I ſpeake as unto them which have underſtanding; judge ye what I ſay.</p>
+               <p>Ob. <hi>And for that aledged,</hi> 1 <hi>Pet.</hi> 3.21. <hi>that the Apoſtle makes</hi> Noahs <hi>Arke a Tipe of Childrens Baptiſme.</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> To tipe out that in the Goſpel, we have not the Antitype following, is unſound; for how Baptiſme ſhould anſwere this figure in Children, cannot be made act, who are not capable of it, not having underſtanding to conceive of it, for they are ſuch have Faith, the confident demand of a good Conſcience, claimes in God ſalvation, through the death and Reſurrection of Jeſus Chriſt.</p>
+               <p>Ob. <hi>Baptiſme hath been effectuall to produce Mortification, and Vivification in many, as divers good people can witneſſe, which it ſhould not have done, if God had not approved of pedo-baptiſme.</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It is denied, Baptiſme doth not in it ſelf produce Mortification and Vi<g ref="char:EOLhyphen"/>vification in none, for if it did, it ſhould ceaſe to be a Signe, and become the thing ſignified; Baptiſme is but a ſigne of that inviſible grace; we have in Chriſt remiſſion of ſin, and mortification of the fleſh, that by the power of Chriſt, the ſinfull body of the fleſh is put off, and by the vertue of Chriſts reſurrection, we revive, and live unto God, Chriſt the Power of life from God producing this in every beleever, to which Baptiſme is a ſigne. <hi>Joh.</hi> 1.11.15. <hi>Rom.</hi> 8.11.13. <hi>Colloſ.</hi> 2.10, 11, 12.</p>
+               <p n="1">1. And whoſoever hold Regeneration by Baptiſme, holds a Popiſh Do<g ref="char:EOLhyphen"/>ctrine.</p>
+               <p n="2">
+                  <pb n="29" facs="tcp:38486:15"/>2. If Baptiſme did produce it, it ſhould doe it to all that partake of it.</p>
+            </div>
+            <div n="5" type="question">
+               <head>Q<g ref="char:V">Ʋ</g>ESTION <hi>V.</hi> Whether is it lawfull to rebaptize, or not?</head>
+               <p>F. <seg rend="decorInit">I</seg> Anſwer, that if one were baptized in the Name of God in gener<g ref="char:EOLhyphen"/>all, without particular explication and recitation of the Three Perſons, be not mentioned, but omitted in baptiſme, it is not right and lawfull baptiſme: or if one was baptized of thoſe He<g ref="char:EOLhyphen"/>reticks, who delivered not the right Doctrine of the <hi>Trinity,</hi> ſuch as were the <hi>Marcionites, Arrians</hi> and <hi>Pueamatomachi,</hi> it's not right and lawfull baptiſme, becauſe the eſſentiall forme of Baptiſme is not obſerved, which according to Chriſt's Inſtitution, muſt be <hi>In the Name of the Father, Sonne, and holy Ghoſt;</hi> but if it be rightly Adminiſtred, according to the Inſtitution of Chriſt, and the forme preſcribed of him, then rebaptizing is unlawfull.</p>
+               <p>
+                  <hi>R.</hi> But now whether the baptiſme of Infants have been right and lawfull baptiſme, according to the Inſtitution of Chriſt, examine, if not right and law<g ref="char:EOLhyphen"/>full, according to Chriſts Inſtitution, they may be baptized againe, he implies; For whoever is baptized not rightly and lawfully, according to Chriſts Inſti<g ref="char:EOLhyphen"/>tution, as ſome may be, having not the true forme of Words, or be baptized by thoſe deliver not the right Doctrine of the Trinity.</p>
+               <p>And for the forme of Words, ſaith hee, it muſt be with a particular expli<g ref="char:EOLhyphen"/>cation, or recitation of the Father, and Sonne, and holy Ghoſt; now this particular explication or recitation, muſt be in referrence either to himſelf, or to the party baptized; to himſelf it cannot be, for hee muſt underſtand to ex<g ref="char:EOLhyphen"/>plaine and explicate, and if he underſtand, what need any explication to him<g ref="char:EOLhyphen"/>ſelf, but then it muſt be a particular explication, or recitation in reſpect of the party to be baptized, and that is proper, according to what goes in reſolu<g ref="char:EOLhyphen"/>tion unto the Apoſtles Queſtion to thoſe in <hi>Act,</hi> 19.3. <hi>unto what were you bap<g ref="char:EOLhyphen"/>tized?</hi> unto which, according to their own knowledge they could give an an<g ref="char:EOLhyphen"/>ſwer, and it is apparent, it is to be in referrence unto the party baptized, then in Infants cannot be the ſubject of this Ordinance, according to Chriſts Inſti<g ref="char:EOLhyphen"/>tution, upon whom cannot paſſe the forme of words in the Inſtitution in any explication unto them, according to Mr. <hi>Knuttons</hi> own words.</p>
+               <p>But let us examine the Inſtitution further, in referrence unto Infants, whe<g ref="char:EOLhyphen"/>ther the Inſtitution meanes them at all to be the ſubject of baptiſme. <hi>Mat.</hi> 28.29. <hi>Goe therefore and teach all Nations, baptizing them in the Name of the Father, Sonne, and holy Ghoſt:</hi> Firſt is the Commiſſion, <hi>goe yee,</hi> and this Commiſſion is grounded upon, <hi>That all power in Heaven and Earth, is Chriſt:</hi> — Ex<g ref="char:EOLhyphen"/>preſt in verſe before the Inſtitution, enjoyne firſt Teaching, <hi>Goe yee, Teach all Nations,</hi> and baptize them firſt, is Teaching which plainely implyes
+<pb n="30" facs="tcp:38486:16"/>a ſubject to be taught, Infants cannot be here meant in the Inſtitution; who are not capable of teaching, and ſo not being made Diſciples; the Inſtitution is not for them to be baptized.</p>
+               <p>Now for any to pretend <hi>Baptiſme,</hi> and have not the Truth of its Inſtitution, void of the Doctrine of the Truth of Chriſt, no Commiſſion from Chriſt to preach, nor right ſubject of <hi>Baptiſme,</hi> uſeing not the forme of words in the In<g ref="char:EOLhyphen"/>ſtitution, yet pretends perſons to be baptized, this may eaſily be counted none, that this is no <hi>Baptizme,</hi> and if poſſible, ſome called to God had been one a<g ref="char:EOLhyphen"/>mongſt ſuch, without Queſtion it were, it is duty to count it none, and readily with all ſubmiſſion imbrace and ſubject unto Chriſts Ordinance, according to his Inſtitution, and ought not to be charged for rebaptization, but obedient unto Chriſt, who from the light of the Truth of Chriſt yeeld obedience unto him, <hi>Matt.</hi> 18.10. And though we are not often, or more then once to be bap<g ref="char:EOLhyphen"/>tized, as to eate the Lords Supper often, yet it muſt be that one <hi>Baptiſme</hi> rightly and lawfully, ſuch as Chriſt hath inſtituted it to be, <hi>Matt.</hi> 18.19, 20. 1 <hi>Theſſ.</hi> 4.1, 2. 2 <hi>Theſſ.</hi> 2.15. <hi>Epiſt. Jude.</hi> 3. <hi>Then am I,</hi> ſaith Chriſt, <hi>your Lord and Maſter, when ye doe all that I command you.</hi> Joh. 13.13, 14.</p>
+               <p>Ob. <hi>Baptiſme is a Sacrament of Regeneration.</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> But you cannot ſay, Baptiſme is a Sacrament of Regeneration unto In<g ref="char:EOLhyphen"/>fants, except you will affirme one of theſe two things. 1. That Children in na<g ref="char:EOLhyphen"/>turall birth, have regeneration from their Parents, which is contrary to theſe Scriptures, <hi>Pſal.</hi> 51.5. <hi>Epheſ.</hi> 2.3. <hi>Joh.</hi> 3.6.</p>
+               <p n="2">2. Or that Baptiſme by water doth regennerate, which is a Popiſh Do<g ref="char:EOLhyphen"/>ctrine, who hold, the Water of Baptiſme doth waſh away originall ſinne in Infants.</p>
+               <p n="3">3. Or if you will cleere your ſelf of this, you muſt aprove from the Inſtituti<g ref="char:EOLhyphen"/>on Baptiſme is a Sacrament of Regeneration to Infants, which you cannot doe.</p>
+               <p>But concerning Beleevers, the word proves this, that the vertue of the grace of Mortification and Vivification of the Spirit of God, wee have from the vertue of Jeſus Chriſt, effectually working in us, to which Baptiſme is a Signe, <hi>Rom.</hi> 6.3.6. <hi>Coloſ.</hi> 2.12, 13.</p>
+               <p>Ob. <hi>Thoſe that are only for Beleevers to be Baptized, they groſſely erre, not know<g ref="char:EOLhyphen"/>ing the Scriptures, nor the Power of God in the Sacrament.</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Thus only to doe, is according to that knowledge the Scriptures give out unto us, <hi>Mar.</hi> 16.16. and upon ſuch only is the experience of the power of God Signed out by this Ordinance, made known unto them. <hi>Colloſ.</hi> 2.12. <hi>Act.</hi> 24.14, 15.</p>
+               <p>Ob. <hi>Thoſe that are only for the Baptiſme of Beleevers, they ſeek to nullifie and fruſtrate the ſacred Ordinance of Chriſt,</hi> viz. <hi>Baptiſme of Infants.</hi> Secondly, <hi>Con<g ref="char:EOLhyphen"/>ſequently
+<pb n="31" facs="tcp:38486:16"/>ſpeake blaſphemy, horribly taking GODS Name in vaine.</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It cannot be proved, that Baptiſme of Infants is an Ordinance of Chriſts Inſtitution, therefore let it be examined, who goe about to nullifie this Ordi<g ref="char:EOLhyphen"/>nance of Chriſt of Baptiſme, they that obſerve it, as it is Inſtituted by Chriſt, or they that obſerve that for his Ordinances his inſtitution requires, not that which agrees with it is according to it, but that diſcends from it, is contrary to it, and workes to annullity of it, to beleeve and be Baptized, is accordidg to the Inſtitution, <hi>Mar.</hi> 16.16. but the Inſtitution of Chriſt in the Goſpel ſaith; none ere baptize Infants, nor in the Goſpel, no example for it, the Apoſtle plainly ſaith, <hi>for what I received of the Lord, I delivered unto you, as in that of the Supper,</hi> 1 <hi>Cor.</hi> 11.23. but never a word no where in the Goſpel for this, and where he received no Commiſſion from the Lord, to doe or require any thing, nothing is required of us pertaining unto his Worſhip.</p>
+               <p>And this is certain, if any unwritten Tradition for Gods Worſhip and Ser<g ref="char:EOLhyphen"/>vice might be ſuffered to take place in one Ordinance, or any part of Gods Worſhip under the Goſpel, it would let in an inroade for all, and make void the whole worſhip of God in his Word laid down unto us, <hi>Colloſ.</hi> 2.8.18.</p>
+               <p>Ob. <hi>But the ſecond part of the Objection is, and ſo by Conſequence, ſpeak blaſ<g ref="char:EOLhyphen"/>phemy horribly, taking Gods Name in vaine, in that they villifie and reject one of his Ordinances, as matter of no worth or efficacy.</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Let it be examined who ſpeaks blaſphemy, and what elſe here is ſaid, he that ſpeaks truth, as the Truth is in Jeſus, or hee that reproacheth the Saints for ſpeaking the truth, as it is in Jeſus, it is Blaſphemy to reproach the Saints, <hi>Revel.</hi> 13.5, 6. <hi>Revel.</hi> 2.9. <hi>Revel.</hi> 3.9.</p>
+               <p>And who is it that takes the Name of God in vaine, he that ſpeaketh Truth, or he that beareth falſe witneſſe.</p>
+               <p>Who nullifies the Ordinances, he that priſeth it from pertaking of the preciouſneſſe of Chriſt, is ſubjected to it, or hee that priſeth it in Chriſt remote from it; he that injoyes the inward life and ſpirituality of that Ordinance in Chriſt Jeſus, or he that ſees or diſcovers no further then the out-ſide of what might agree with Circumciſion, whoſe Circumciſion may be counted to him uncircumciſion, and ſo in an nullity to him, <hi>Rom.</hi> 2.25.</p>
+               <p>Ob. <hi>They diſcover hipocriſy, in that they made profeſſion formerly of the Covenant made with God in Baptiſme, but now ſince their ſeparation diſclaime it.</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Let it be examined who diſcovereth hypocriſy, he that from the grace of the Covenant of God in Chriſt, is carried forth to profeſſe his Covenant and Name in obedience to his Truth, manifeſted to him, or he that profeſſeth that which hath no being or reality of it in him, nor from any manifeſtation from God to him, it ſhould be ſo, which they doe which profeſſe ſuch an Ordinance or Worſhip to be Gods, that is not Gods, nor of his appointment. <hi>Iſai.</hi> 58.2.5.
+<pb n="32" facs="tcp:38486:17" rendition="simple:additions"/>or himſelf in ſuch or ſuch a Relation unto God, in ſuch or ſuch a thing, that hee is not ſo in Relation unto him in, as he profeſſeth is Hypo<g ref="char:EOLhyphen"/>criſy.</p>
+               <p>And neither in both theſe reſpects it doth not appeare, Firſt to profeſſe that Ordinance and Worſhip to God, which his Word hath not made out to us, to be his Ordinance, and if the baptiſme of Children be not ſo.</p>
+               <p n="2">2. It holds out a profeſſion of that thing to be, which cannot appeare ſo to be, nor is not manifeſted from God ſo to be, neither by his Word comman<g ref="char:EOLhyphen"/>ding, nor by his grace manifeſted, that the party, the Infant to be in relation unto Chriſt by Faith, according to <hi>Mark.</hi> 16.16. <hi>beleeve and be baptized;</hi> And hypocriſy by profeſſion doth appeare moſt palpably in ſuch a thing as this, in that forme uſed in the baptiſme of Children, this is required of the Childe by way of Queſtion. <hi>Doſt thou beleeve, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>.</hi> an Infant that hath not knowledge, nor capeable of underſtanding, nor no ſenſibleneſſe of will to aſſent unto any thing, <hi>Wilt thou be baptized in this ſaith? Will your ſeverity in this thing be ac<g ref="char:EOLhyphen"/>quitted before God.</hi> Gal. 6.7.</p>
+               <p>Ob. <hi>This their opinion is but New, and upſtart, there is good reaſon they ſhould diſclaime it, and be humbled for it.</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The Apoſtles were in their time charged for new and upſtart <hi>Doctrine</hi> by ſome, ſhould they by good reaſon therefore diſclayme it, and be humbled for it, and ſo have denyed Chriſts doctrine and Truth, which was not new, but from the beginning, <hi>Joh.</hi> 1. <hi>1,</hi> 2.1 <hi>Joh.</hi> 1.1, 2, 3. ſo might the Church of <hi>Rome</hi> have ſaid, if they did not ſo, againſt <hi>Luther,</hi> and others, though they brought forth the Ancient Truths of the Goſpel of free Juſtification, and renouncing <hi>Tranſubſtantiation</hi> of Chriſt, reall preſence of his fleſh and blood in the bread and wine in the Supper, they were counted new and upſtart; ſhall we ſay ſo, and that they ſhould have diſclaimed the doctrine of <hi>free Juſtification,</hi> and their renouncing of <hi>Tranſubſtantiation,</hi> and repented of it; it was woefull in the in<g ref="char:EOLhyphen"/>ſtance of <hi>Francis Spira,</hi> who owned the Doctrine of <hi>free Juſtification,</hi> &amp; taught it, yet for the feare of them that took part with <hi>Rome,</hi> renounced it, who was terrified in his Conſcience, and cryed out, there was no mercy for him. Again, it is not new, nor an upſtart opinion, but it is as old as the Goſpel Churches, who in this path walked, of whom it is ſaid in <hi>Act.</hi> 2.41, 42. then they that gladly received the Word, were baptized, 42. <hi>verſ. and they continued ſtedfaſt in the Apoſtles Doctrine and fellowſhip, and in breaking of bread, and in Prayer.</hi> Acts 8.12.</p>
+            </div>
+            <div n="6" type="question">
+               <pb n="33" facs="tcp:38486:17"/>
+               <head>Q<g ref="char:V">Ʋ</g>ESTION. <hi>VI.</hi> Whether is it lawfull to ſeperate from all the publike Ordinances, and Chriſtian Aſſemblies in our Engliſh Church, becauſe there are ſome defects in Diſciplin, and in other things amongſt us?</head>
+               <p>F. <seg rend="decorInit">I</seg> Conceive it is abſolutely unlawfull to relinquiſh Gods holy Ordinance, and the Aſſemblies of Godly Chriſtians in this Church of <hi>England,</hi> becauſe of our mixt Congregation, and becauſe of ſome defects in our Diſciplin.</p>
+               <p>
+                  <hi>R.</hi> Theſe two things muſt be made good before it can be abſolutely unlaw<g ref="char:EOLhyphen"/>full to relinquiſh; Firſt, that it be a Church Aſſembly of Saints. 2. That the ho<g ref="char:EOLhyphen"/>ly ordinances of God are there enjoyed: Firſt for a Church Aſſembly of Saints, ſuch a Church Aſſembly as are ſtiled Saints by calling, 1 <hi>Cor.</hi> 1, 2. and as they are the matter of the Church Aſſembly, they profeſſe holineſſe and godlineſſe. <hi>Rom.</hi> 1.7.</p>
+               <p>But the Church of <hi>England</hi> doe not ſo aſſemble together, as from a holy Call, to a holy according together. Firſt called, then exhorted to walke wor<g ref="char:EOLhyphen"/>thy of their holy Calling, <hi>Epheſ.</hi> 4.1. and a holy according in Aſſembling of themſelves together in holy fellowſhip, is one thing pertaines to walking wor<g ref="char:EOLhyphen"/>thy the Call, <hi>Epheſ.</hi> 4.3. 1 <hi>Pet.</hi> 2.17. <hi>Heb.</hi> 12.23.24.</p>
+               <p>But for that Aſſembly that gathers together after the Rudiments of the World, and not after Chriſt, is not the Church Aſſembly of Saints, <hi>Colloſ.</hi> 2.8.</p>
+               <p>And that Aſſembly that gathers together without faith, in according toge<g ref="char:EOLhyphen"/>ther in Jeſus Chriſt, after his Word: Whether this be, or not be, is after the Rudiments of the World; and therefore that Aſſembly which is one with the World, in the worldly conſideration of its Aſſembly of it, is that from which God hath alwayes called and ſeparated his people out of it unto himſelf, <hi>Joh.</hi> 15.18, 19. 2 <hi>Cor.</hi> 6.16, 17, 18. <hi>Act.</hi> 19.9.</p>
+               <p>And for that where the holy Ordinances of God are injoyed, is there where Chriſts preſence is, and that is, where his are gathered together in his Name, according to his Word, <hi>Mat.</hi> 18.20.</p>
+               <p>And Chriſt is ſaid to walke in the mid'ſt of the ſeven Golden Candleſticks, <hi>Revel.</hi> 2.1. which Candleſticks are interpreted by Chriſt in the <hi>Revel.</hi> 1.20. to be the Seven Churches, and in his Church hee holds forth his Miniſtery and Ordinances. <hi>Epheſ.</hi> 4.11, 12. <hi>Epheſ.</hi> 3.10.</p>
+               <p>But as in the former part of the book, the Miniſtery of Chriſt, that which is of his ſending, was conſidered either immediate of himſelf, or mediately in his Church, was not ſuch: In the Church of <hi>England,</hi> neither there his Or<g ref="char:EOLhyphen"/>dinances,
+<pb n="34" facs="tcp:38486:18"/>according to his Inſtitution injoyed, as in Reply unto <hi>Mr. Knuttons</hi> Anſwer unto the firſt and third Queſtion in his book, nor this Ordinance of Baptiſme, according to Chriſts Inſtitution.</p>
+               <p>Ob. <hi>Becauſe Jeſus Chriſt leaves us <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> for our defects and weakneſſe.</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> It is the great mercy of Chriſt to his, not to leave them for their de<g ref="char:EOLhyphen"/>fects and weakneſſes, but it is not to maintaine their defects and weakneſſes in them, but to work them out of them. But for you to ſay, Chriſt leaves you not, as conſidered by you the Church of <hi>England,</hi> you cannot maintaine, for Chriſt upholds, nor maintaineth no other Houſe or Church, then that which is of his own building, that is founded upon himſelf, nor no other Ordinan<g ref="char:EOLhyphen"/>ces, then thoſe of his owne Inſtitution, <hi>Heb.</hi> 3.6. <hi>Mat.</hi> 7.24, 25 with the 21, 22, 23. verſes of the ſame Chapter.</p>
+               <p>Ob. <hi>It appeares Chriſt dwells amongſt us, becauſe he hath ſetled his Sacred Word amongſt us, ſent us many Godly and learned Teachers, and where theſe are, teaching the truth, there is Chriſt.</hi> Mat. 28.20.</p>
+               <p>
+                  <hi>An.</hi> It is not onely having the Word taught, but there muſt be the recei<g ref="char:EOLhyphen"/>ving, obeying, and conforming unto it, is that Scripture received, you aledged in <hi>Matt.</hi> 28.19, 20. obſerved, are fought againſt; Doe you, according to the Inſtitution in 19. <hi>verſ.</hi> goe teach and Baptiſe? Is there that teaching to obſerve all that Chriſt commands? if the Word come neer you only in Declaration, not hearkened to, as to obey it, but oppoſed; the Kingdome of God comes neer you but not to ſtay with you oppoſition againſt the truthes of Chriſt by a people, proſageth Chriſts Word departing from them, <hi>Act.</hi> 18.5, 6. <hi>Mat.</hi> 10.14.</p>
+               <p>Ob. <hi>He hath converted many ſouls in our Land to himſelf, by the faithful diſpen<g ref="char:EOLhyphen"/>ſation of his Ordinances, and where all this is, there Chriſt is reſident.</hi>
+               </p>
+               <p>
+                  <hi>An.</hi> The more the mercy and grace of God hath ſhowne forth it ſelfe to convert many foules unto himſelf in the Land, the more meet matter by him is there for his Houſe and Building, and the faithfulneſſe that hath done this, is Gods, and not mans; Chriſt is the life and power of Converſion, and not Or<g ref="char:EOLhyphen"/>dinances. <hi>Act.</hi> 16.14. <hi>Act.</hi> 14.27. <hi>Act.</hi> 3.26. And for that of Chriſt being reſident, is conſiderable theſe two things. 1. He is reſident with his people, as conſidered his in Converſion, and in another reſpect, as they are his Church: hee is not reſident with them, as he is with his Saints coupled and compacted together, as they are his Church, not till they are ſo coupled and compacted together; For if he were ſo, this would imply Church fellowſhip needleſſe, and would worke unto annullity of it. But Chriſt calling and converting by his Word un<g ref="char:EOLhyphen"/>to himſelf, is for the increaſing &amp; building of his Church, <hi>Act.</hi> 2.41, 42. and ſo are intereſſed into all the priviledges of his Church, <hi>Pet.</hi> 2.2, 3, 4, 5 and ſo have him reſident with them, as his Church, <hi>Matt.</hi> 18.20. <hi>Epheſ.</hi> 2.21, 22.</p>
+               <p>Ob. <hi>Becauſe in ſeparating from our aſſemblies &amp; ordinances, ſuch prevent the ex<g ref="char:EOLhyphen"/>erciſes
+<pb n="35" facs="tcp:38486:18"/>of many a holy <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>, which you might, &amp; ought to have performed amongſt us.</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> But that aſſembly <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſtands repugnant unto the uſe of Chriſts Ordinance, according to this Inſti<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ion, or repugnant unto the Saints priviledges, and that wherein they are <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> in their duty, in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to edifie, as in the body of Chriſt, his Church <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> another, according to the effectuall po<g ref="char:EOLhyphen"/>wer of each part, to <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> it ſelf in love, <hi>Ep.</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 16.17. is that aſſembly Chriſt is <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> head of, nor his Saints <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> members of it; for if he were the head, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> be the doing the thing <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> as he ſaith, <hi>then am I you<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> when you do that I comm<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </hi> head ſay, <hi>I have no need of <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>.</hi>
+               </p>
+               <p>Ob. <hi>Becauſe this ſeperati<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> cleer,</hi> Heb. 10.25, 26. <hi>for ſuch <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> holy Ordinances amongſt us, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> Chriſt his preſence and love from <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> Truth, and to ſinne <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>.</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Whether is the ready <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> obedience unto the truths of <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ſtand in open oppoſition unto the truth of <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> cording of the Saints unto that manner of <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> quires, is in the way an union of the ſpirit <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> that aſſembly that anſwers not unto <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> warrs againſt, and oppoſeth ſuch aſſe<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Saints, as Chriſt requires, and would <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ſin againſt the holy Ghoſt, <hi>Act.</hi> 13.50. <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </hi> deſpiſe or diſert Chriſtian aſſemblies; <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> with that aſſembly that is truly Chriſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> truly ſuch? who diſpiſeth, or diſerteth <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, thoſe that make out after them, &amp; to enjoy them according to the will of Chriſt, or thoſe that cleave to thoſe? for Chriſts Ordinances to be his, his will declares not to be ſuch, <hi>Colloſ.</hi> 2.20.21, 22, 23.</p>
+               <p>Ob. <hi>They are his Ordinances, though there be ſame defects and imperfections.</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> A fundamentall defect in, and Ordinances is ſuch, that it cannot be ſaid to be his Ordinance (<hi>Rev.</hi> 2.9. <hi>Rev.</hi> 3.9. <hi>I know,</hi> ſaith Chriſt, <hi>the blaſphemy of them that ſay they are Jews, and are not, but are the Synagogue of Satan,</hi> they profeſſe them<g ref="char:EOLhyphen"/>ſelves to be <hi>Jews,</hi> but the gathering together was of Satan:) Now every Or<g ref="char:EOLhyphen"/>dinance of Chriſt is ſundamentally made good to us to be ſuch from the word of Chriſt, as we have the Apoſtle <hi>Paul,</hi> 1 <hi>Cor.</hi> 11.23. <hi>therefore that I have received of the Lord, that I deliver unto you as concerning the Supper,</hi> according to that <hi>Matth.</hi> 28.20. <hi>Teach them to obſerve all that I command you;</hi> the Church of GOD is his great Ordinance, which fundamentally is made out to us by
+<pb n="36" facs="tcp:38486:19"/>the Word, <hi>Mat.</hi> 18.20. 1 <hi>Pet.</hi> 2.5. <hi>Epheſ.</hi> 2.20.21, 22. So is Baptiſme in its ſun<g ref="char:EOLhyphen"/>damentall, is laid down how to be in the Inſtitution <hi>Mat.</hi> 28.19. <hi>Mar.</hi> 16.16. as well as the Ordinance of Preaching, which fundamentally is ſending, <hi>Rom.</hi> 10.15.</p>
+               <p>Now for any to profeſſe an Ordinance to be <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> which is deficient in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> fundamentall of his Ordina<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>, as <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>tuted by <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, there is not Chriſt <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> in his love, and will, as with that which is his Ordinance, yet of his <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, he may bring over theſe into the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dience of himſelf, in his <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 26, 27, 28, 29: 3 <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Though it may be gran<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> him, of his geace, according to the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> where it liſteth, and that ſome <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ſhow it forth in many <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Miniſtery made out to us, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Officiall Miniſtery; Fur<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> did communicate it forth to <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> that through the grace of <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> and lively building of Gods <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ation, in the order and fellowſhip of the Go<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> requires, that it ſhould not <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e ſo, but ſo far <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Chriſt, ſhould be unto thee for Ordinance <gap reason="illegible" resp="#PDCC" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap>.</p>
+               <p>
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> in his love, truly from them hee is <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Thus is hee to all are made one with <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> that the Spirit ſhall lead them into <gap reason="illegible" resp="#PDCC" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap>.</p>
+               <p>
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ted from you, as the Church of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> can be in <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> houſe Chriſt ſpeakes of, that was built upon the ſands, which when the raine fell, and the floods came, and the winde blew, and beat upon that houſe, and it fell, and the fall thereof was great, <hi>Mat.</hi> 7.26, 27. and the foundation thereof diſcovered, to have been only upon the ſands, they heard the words of Chriſt, but the ſpirit of life in obedi<g ref="char:EOLhyphen"/>ence, with conjunction unto Chriſts Word and will, they had not, <hi>Mat.</hi> 7.21.22.23, 24, 25. For they were ſuch as heard the words of Chriſt, but did them not, who was likened unto a fooliſh man, which had built his houſe upon the ſands.</p>
+               <p>Now whether is it left to build with the fooliſh builders upon the ſands, and the rather, becauſe they ſay, Chriſt is not a linated from them, or according unto the wiſedome of Chriſt to build upon the Rock.</p>
+               <p>There is a time that the fooliſh are full of preſumption, and there is a time, when the fooliſh ſeek unto the wiſe Virgins for Oyle, and neither of theſe any evidences that Chriſt is with them.</p>
+            </div>
+            <div n="7" type="question">
+               <pb n="37" facs="tcp:38486:19"/>
+               <head>Q<g ref="char:V">Ʋ</g>EST<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 
+                  <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi> Whether is it neceſſary <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>moliſh our <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> them, and to build<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> in other <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Idolatrous Word<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> were <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </head>
+               <p>
+                  <hi>F.</hi> 
+                  <seg rend="decorInit">I</seg> 
+                  <hi>Hold <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> trous <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </hi>
+               </p>
+               <p>
+                  <hi>R.</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> worſhip <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> brought to Annullity, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <hi>Act.</hi> 19.18, 19.24.25, 26, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</p>
+               <p>Ob. <hi>But they that Wor<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> uſed in them, and uſe them <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> They doe not reje<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Idolaters in their Idoll Wor<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ſtitions, that in that place the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> as they have made it an Idol<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> thus to be, though it have ſo <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> been broken down, as the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> I<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>olaters ſetting up. 2. <hi>Reaſ.</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> worſhip God in the places <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> their Idolls, to ſay, they might <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ing thoſe ſuperſtitions were uſed in <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> be allowed into the beleeving <hi>Corin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</p>
+               <p>Nothing ſuperſtitiouſly in uſe with <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> in uſe lawfull in the true worſhip of <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ſacrificed to Idolls, ſould in the ſhan<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <hi>rinthians,</hi> 1 <hi>Cor</hi> 10.25, 26, 27. yet in <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> to eate of them, eate in Idoll ſervice, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> and eate in the <hi>Lords Supper,</hi> that wa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> crifices, 1 <hi>Cor.</hi> 10.16.21. 3 Nor in caſe of <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</p>
+               <p>Ob. <hi>If for the ſuperſtitions Rites of <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> ſhed, then how comes it to paſſe, that the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> ment, ſeeing they have been Conſecrated <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> latrous Supe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſtitions, as the Temples were <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>.</hi>
+               </p>
+               <p>
+                  <hi>An.</hi> The <hi>I<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>aelites</hi> were to deſtroy all <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ground on which they ſtood, was theirs; for <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <hi>Canaan</hi> unto them; Though all their Idolat<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> was to fall, and be ſpoyled upon it, and ſo let all <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> on ceaſe, as in the place of deſolation, to the grave of oblivi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</p>
+               <p>Ob. <hi>Popiſh Baptiſme, being in like manner defiled with Idolatr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                     <pb n="38" facs="tcp:38486:20"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> to be ſought, and while you <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> in Popery, you cannot without par<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> by <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Cer<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>monies of Croſſeing, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> eat as <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ution of the Temples <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>line.</hi>
+               </p>
+               <p>
+                  <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iſhneſſe is in appro<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> objection ſpeechleſſe. <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>, becauſe of their for<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>emples, as Infants in their <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> Ordination, and Popiſh <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> Idolatrous rites, as our <gap reason="illegible" resp="#PDCC" extent="1 line">
+                        <desc>〈1 line〉</desc>
+                     </gap>.</hi>
+               </p>
+               <p>
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> claime that Idolatry and <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ſubject unto it, that God may <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>olatry and Popery deſtroy<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> be like the unclean ſpirit <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> popery erects unto it living <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Conſciences; heres living <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Temples of Popiſh Mini<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Popiſh Princes in their Corona<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>royed; and did we ſee the ſpirit <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 3.16. as it erects it ſelfe up in living <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> People and Nations, and how in the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> with men in the ſpirit, and life of <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> fit ſelf; that if you will deſtroy, that <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> perſons too; ſo loath is Popery. <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mples be no more unto it. This Ob<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Living Temples. Firſt is, in Infants <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> no more unto him. Second is, Popiſh <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> offes this Living Temple be no more <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>onation; this Living Temple be no <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> they are, which is God, who ſaith, <gap reason="illegible" resp="#PDCC" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap>.</p>
+               <p>
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> wraped all perſons of all ſorts in it <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> to be, they are it, ſo Popiſhly, as by the port <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ſome out of <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> himſelf, <hi>Reve.</hi> 13.8. <hi>Rev.</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap>.</p>
+               <p>
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> God is held out to us, for the effecting of this <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> unto God and his Worſhip, paſively as well as negative<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> forſake all falſe worſhip, whether ſtiled the worſhip of the
+<pb n="39" facs="tcp:38486:20"/>Beaſt, Idoll, all Popiſh Idolatrous <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</p>
+               <p>Therefore whoever is the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> thoſe aſſent to that <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> would that the me<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> of which the Apoſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</p>
+               <p>Infants in their <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Miniſters, in their <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ſent not unto: for in <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ſpeake. <hi>Revel.</hi> 16.13.</p>
+               <p>Princes in their <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> by the Pope, nor any of <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Temples, as thoſe King <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> houre with the Beaſt. <hi>Re<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</p>
+               <p>But let the Beleever, the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> profeſſion of the Baptiſme <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 3.16.17.1 <hi>Cor.</hi> 6.19, 20. <hi>Mar<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</p>
+               <p>And let the Miniſtery tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> of life, in whom the Spirit <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</p>
+               <p>And let our Princes and <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> us in his light of Counſell, and <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> in all godlineſſe and honeſty, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> them; <hi>For which wee pray: Ezra<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>.</hi>
+               </p>
+            </div>
+            <trailer>F<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>
+            </trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <head>E<gap reason="illegible" resp="#PDCC" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>
+            </head>
+            <p>
+               <hi>Pag.</hi> 3. <hi>lin.</hi> 34. <hi>for</hi> Behold, <hi>read</hi> Belo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>for no,</hi> r. not, <hi>p.</hi> 9. <hi>l.</hi> 18. <hi>for aſpertio<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>l.</hi> 35. <hi>for</hi> as r. all. <hi>p.</hi> 14. <hi>l.</hi> 13. <hi>for</hi> ſets<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> r. vow. <hi>l.</hi> 35. <hi>for</hi> ſinne, r. ſeem. <hi>p.</hi> 21. <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> r. with, <hi>l.</hi> 36. <hi>for</hi> alone, r. a love. <hi>l.</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>for</hi> Adminiſtration, r. Adminiſtrato<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
